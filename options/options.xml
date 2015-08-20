@@ -3,25 +3,62 @@
     <property name="log.debug.categories" value="" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
-    <property name="installation.uid" value="1b8df327-ee46-48b9-a657-d71ec68592b3" />
-    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/.ssh/id_rsa.pub" />
+    <property name="evlsprt3.14" value="19" />
+    <property name="file.chooser.recent.files" value="C:/Daten/P/Java/jboss-eap-6.4/standalone/log/server.log&#10;C:/Daten/src/temp/jaxb-stax/pom.xml&#10;C:/Daten/src/fo_java_mars/ao/tfo/atm/trunk/pom.xml&#10;N:/nsmgit/NSMAnalysetool/pom.xml&#10;N:/nsmgit/NSMAnalysetool&#10;N:/nsmgit/NSMAnalysetool/nbproject/build-impl.xml&#10;N:/nsmgit/NSMAnalysetool/build.xml&#10;C:/Daten/src/fo_java_mars/ao/tfo/ep2/trunk/pom.xml&#10;C:/Daten/download/intellij/settings-repository-2.0.14.141.3.zip&#10;C:/Daten/src/fo_java_mars/trunk/ep2-batch/pom.xml&#10;C:/Daten/src/fo_java/ao/tools/intellij&#10;C:/Daten/src/git/rikcarve/webapp/pom.xml&#10;C:/Daten/src/fo_java_mars/ao/hsm/trunk/hosttool/pom.xml&#10;C:/Daten/src/fo_java_mars/ao/common/trunk/pom.xml&#10;C:/Daten/src/fo_java_mars/ao/hsm/trunk&#10;C:/Daten/src/fo_java_mars/ao/services/trunk/pom.xml&#10;C:/Daten/src/fo_java/ao/tools/intellij/ao-code-style-settings.jar&#10;C:/Daten/src/fo_java/ao/tools/eclipse/cdfa-formatter.xml&#10;C:/Daten/src/fo_java_mars/ao/hsm/trunk/pom.xml&#10;C:/Daten/src/fo_java/ao/hsm/trunk/pom.xml&#10;C:/Daten/download/intellij/EclipseFormatter-15.1.132.637.1.zip&#10;C:/Daten/src/fo_java/ao/tools/eclipse/cdfa.importorder&#10;C:/Daten/download/intellij/EclipseFormatter-15.0.132.637.1.zip&#10;N:/nsmgit/HSMHostTool/Common&#10;N:/nsmgit/HSMHostTool/Java/src/main/java/com/six_group/ao/hsm/functionality/PkfLoader.java&#10;N:/nsmgit/HSMHostTool/Java&#10;N:/nsmgit/HSMHostTool/Common/HsmAccessProvider.iml&#10;N:/nsmgit/HSMHostTool&#10;C:/Daten/P/maven3/conf/settings.xml&#10;N:/nsmgit/HSMHostTool/pom.xml" />
+    <property name="last.imported.location" value="N:/nsmgit/NSMAnalysetool" />
     <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="project.jdk.splitter" value="0.2" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
-    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="8" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="29" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
-    <property name="ProjectStructure.TopLevelElements" value="0.15" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
-    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="KEYMAP" value="clone&#10;fix&#10;move caret&#10;test&#10;create new test" />
-    <property name="PLUGIN_FILTER" value="settings repo" />
+    <property name="LOG_FILTER_HISTORY" value="port" />
+    <property name="evlsprt.14" value="14e5e7b8c7c" />
+    <property name="evlsprt2.14" value="14dfca2c0d1" />
+    <property name="plugins.preselection.path" value="C:/Daten/download/intellij" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="export.settings.path" value="C:\Daten\src\fo_java\ao\tools\intellij\keymap-settings.jar" />
+    <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="KEYMAP" value="switching&#10;caret&#10;fix&#10;navigate&#10;switch" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="MoveClass.OpenInEditor" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="PLUGIN_FILTER" value="settings repo&#10;settings" />
+    <property name="filter_non_existing" value="false" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="MavenModuleWizard.inheritGroupId" value="false" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.70454544" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
   </component>
 </application>
