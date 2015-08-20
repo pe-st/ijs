@@ -2,6 +2,9 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="gr.script.class" />
+        <option value="gr.annot.members" />
+        <option value="gr.annot.method.name" />
         <option value="gr.method.name" />
         <option value="gr.field.name" />
         <option value="gr.script.fqn" />
@@ -52,9 +55,6 @@
         <option value="aj.itd.field" />
         <option value="gr.anonymous.class" />
         <option value="gr.class.super" />
-        <option value="gr.script.class" />
-        <option value="gr.annot.members" />
-        <option value="gr.annot.method.name" />
       </list>
     </option>
   </component>
