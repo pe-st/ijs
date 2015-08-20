@@ -1,0 +1,6 @@
+disabled_plugins.txt
+eval
+port
+options/feature.usage.statistics.xml
+options/statistics.application.usages.xml
+options/usage.statistics.xml
