@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="control SLASH" />
+    <keyboard-shortcut first-keystroke="control DIVIDE" />
+    <keyboard-shortcut first-keystroke="control 7" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift control UP" />
   </action>
@@ -8,6 +13,7 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift alt D" />
   </action>
+  <action id="GotoBookmark7" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="SwitchApply">

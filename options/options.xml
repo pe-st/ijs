@@ -11,7 +11,7 @@
     <property name="project.jdk.splitter" value="0.2" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
-    <property name="lastTip" value="29" />
+    <property name="lastTip" value="30" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
@@ -39,7 +39,7 @@
     <property name="evlsprt.14" value="14e5e7b8c7c" />
     <property name="evlsprt2.14" value="14dfca2c0d1" />
     <property name="plugins.preselection.path" value="C:/Daten/download/intellij" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Java" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
@@ -48,9 +48,9 @@
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="export.settings.path" value="C:\Daten\src\fo_java\ao\tools\intellij\keymap-settings.jar" />
     <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
-    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeChangedCounter" value="7" />
     <property name="KEYMAP" value="switching&#10;caret&#10;fix&#10;navigate&#10;switch" />
-    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
     <property name="MoveClass.OpenInEditor" value="true" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="PLUGIN_FILTER" value="settings repo&#10;settings" />
@@ -60,5 +60,9 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.70454544" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
 </application>
