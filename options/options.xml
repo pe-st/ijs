@@ -11,7 +11,7 @@
     <property name="project.jdk.splitter" value="0.2" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
-    <property name="lastTip" value="30" />
+    <property name="lastTip" value="31" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
@@ -49,7 +49,7 @@
     <property name="export.settings.path" value="C:\Daten\src\fo_java\ao\tools\intellij\keymap-settings.jar" />
     <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
     <property name="fileTypeChangedCounter" value="7" />
-    <property name="KEYMAP" value="switching&#10;caret&#10;fix&#10;navigate&#10;switch" />
+    <property name="KEYMAP" value="comment&#10;switching&#10;caret&#10;fix&#10;navigate" />
     <property name="ShowDocumentationInToolWindow" value="true" />
     <property name="MoveClass.OpenInEditor" value="true" />
     <property name="decompiler.legal.notice.accepted" value="true" />
