@@ -1,0 +1,23 @@
+<templateSet group="pesche">
+  <template name="log" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);&#10; &#10;$END$" description="Adds a slf4j logger" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void $EXPR1$_$EXPR2$_$EXPR3$() {&#10;    // given&#10;    $END$&#10; &#10;    // when&#10;     &#10; &#10;    // then&#10; &#10;}" description="adds a test named unitOfWork_stateUnderTest_expectedBehavior" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

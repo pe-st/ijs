@@ -4,7 +4,10 @@
       <entry key="ChangesView">
         <PlaceSettings />
       </entry>
-      <entry key="Default">
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
@@ -22,6 +25,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
