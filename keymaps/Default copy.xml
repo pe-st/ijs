@@ -21,6 +21,10 @@
   <action id="GotoBookmark7" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="control alt S" />
+    <keyboard-shortcut first-keystroke="control COMMA" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
