@@ -20,6 +20,16 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/dev/git/intellij-plugin-export-keymap" value="1439635968000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -38,13 +48,25 @@
                 <id />
               </State>
               <State>
-                <id>CDI(Contexts and Dependency Injection) issues</id>
+                <id>Class structureJava</id>
               </State>
               <State>
-                <id>Encapsulation issuesJava</id>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
               </State>
               <State>
                 <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
               </State>
               <State>
                 <id>Spring</id>
@@ -52,10 +74,16 @@
               <State>
                 <id>Spring AOPSpring</id>
               </State>
+              <State>
+                <id>TestNG</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>Ant inspections</id>
+                <id>Android</id>
               </State>
             </selected-state>
           </profile-state>
@@ -74,12 +102,12 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="project.structure.last.edited" value="SDKs" />
-        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.last.edited" value="Global Libraries" />
+        <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -169,9 +197,6 @@
           <method />
         </configuration>
       </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
       <component name="masterDetails">
         <states>
           <state key="GlobalLibrariesConfigurable.UI">
@@ -187,7 +212,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>IntelliJ IDEA IU-141.1532.4</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

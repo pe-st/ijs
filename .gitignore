@@ -2,10 +2,13 @@ disabled_plugins.txt
 eval
 idea14.key
 ijs
-port
+options/applicationLibraries.xml
 options/dimensions.xml
+options/dslActivation.xml
 options/feature.usage.statistics.xml
+options/find.recents.xml
 options/jdk.table.xml
+options/options.xml
 options/recentProjects.xml
 options/remote-server-client-libraries.xml
 options/remote-servers.xml
@@ -14,5 +17,6 @@ options/statistics.application.usages.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
+port
 settingsRepository
 tasks
