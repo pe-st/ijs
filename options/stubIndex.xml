@@ -2,7 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="sql.table.shortName" />
         <option value="properties.index" />
         <option value="Css.id" />
         <option value="Css.class" />
@@ -31,6 +30,7 @@
         <option value="cfml.component.shortName" />
         <option value="sql.names" />
         <option value="sql.column.name" />
+        <option value="sql.table.shortName" />
       </list>
     </option>
   </component>
