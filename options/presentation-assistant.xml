@@ -1,0 +1,9 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Default copy" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
