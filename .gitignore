@@ -1,6 +1,8 @@
 disabled_plugins.txt
+disabled_update.txt
 eval
 idea14.key
+idea15.key
 ijs/
 migration/
 options/applicationLibraries.xml
@@ -25,5 +27,6 @@ options/web-browsers.xml
 options/window.manager.xml
 plugins/
 port
+port.lock
 settingsRepository/
 tasks/
