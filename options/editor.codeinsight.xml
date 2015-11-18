@@ -12,6 +12,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers.containsString" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.Is" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.MockitoAnnotations" />
     <EXCLUDED_PACKAGE NAME="sun.nio" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">

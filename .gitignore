@@ -1,9 +1,11 @@
+consoles/db/
 disabled_plugins.txt
 disabled_update.txt
 eval
 idea14.key
 idea15.key
 ijs/
+jdbc-drivers/
 migration/
 options/applicationLibraries.xml
 options/dimensions.xml
@@ -25,6 +27,7 @@ options/statistics.application.usages.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
+options/window.state.xml
 plugins/
 port
 port.lock
