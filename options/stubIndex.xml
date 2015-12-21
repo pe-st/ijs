@@ -2,25 +2,25 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetFileFacadeShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetFileFacadeClassByPackageIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetFilePartClassIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetFileFacadeFqNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetProbablyNothingPropertyShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetProbablyNothingFunctionShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetAnnotationsIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetTopLevelExtensionsByReceiverTypeIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetTopLevelPropertyFqnNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetTopLevelFunctionFqnNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetSuperClassIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetFunctionShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetPropertyShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetFullClassNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetClassShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetTopLevelPropertyByPackageIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetTopLevelFunctionByPackageIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetTopLevelClassByPackageIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetExactPackagesIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex" />
         <option value="gr.anonymous.class" />
         <option value="gr.class.super" />
         <option value="gr.script.class" />
@@ -52,7 +52,7 @@
         <option value="java.field.name" />
         <option value="java.class.extlist" />
         <option value="java.annotations" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.JetMultifileClassPartIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
       </list>
     </option>
   </component>
