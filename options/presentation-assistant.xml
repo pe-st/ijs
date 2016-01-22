@@ -11,5 +11,6 @@
         <option name="name" value="Default copy" />
       </KeymapDescription>
     </option>
+    <option name="showActionDescriptions" value="false" />
   </component>
 </application>

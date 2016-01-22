@@ -2,6 +2,8 @@ consoles/db/
 disabled_plugins.txt
 disabled_update.txt
 eval
+extensions/com.intellij.database/data/extractors/
+extensions/com.intellij.database/schema/
 idea14.key
 idea15.key
 ijs/
