@@ -27,6 +27,7 @@
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/Documents/dev/git/intellij-plugin-export-keymap" value="1439635968000" />
+            <entry key="$USER_HOME$/Documents/git/workshop-elasticsearch/elastic-test-suite" value="1457603574000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -208,6 +209,18 @@
             </settings>
           </state>
           <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
               <splitter-proportions>
