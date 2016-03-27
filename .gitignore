@@ -1,6 +1,8 @@
 disabled_plugins.txt
 eval
 idea14.key
+idea15.key
+idea16.key
 ijs/
 installed.txt
 migration/
@@ -21,6 +23,7 @@ options/remote-servers.xml
 options/runner.layout.xml
 options/security.xml
 options/statistics.application.usages.xml
+options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
@@ -29,4 +32,3 @@ port
 port.lock
 settingsRepository/
 tasks/
-idea15.key
