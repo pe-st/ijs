@@ -1,0 +1,10 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="2" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
+    <option name="FONT_SIZE" value="8" />
+    <option name="BOTTOM_MARGIN" value="0.5" />
+    <option name="RIGHT_MARGIN" value="0.5" />
+    <option name="DRAW_BORDER" value="false" />
+  </component>
+</application>

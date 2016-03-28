@@ -1,5 +1,9 @@
 <application>
   <component name="SaveActionSettings">
-    <option name="changedCode" value="false" />
+    <option name="exclusions">
+      <set>
+        <option value=".*/.*\.sql" />
+      </set>
+    </option>
   </component>
 </application>
