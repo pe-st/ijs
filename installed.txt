@@ -1,0 +1,6 @@
+ASM Bytecode Outline
+de.netnexus.camelcaseplugin
+org.sylfra.idea.plugins.linessorter
+org.nik.presentation-assistant
+com.dubreuia
+org.sonarlint.idea

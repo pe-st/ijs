@@ -2,8 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex" />
@@ -37,12 +35,13 @@
         <option value="sql.column.name" />
         <option value="sql.table.shortName" />
         <option value="properties.index" />
+        <option value="Css.custom.property" />
         <option value="Css.attr" />
         <option value="Css.id" />
         <option value="Css.class" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
+        <option value="java.unit.tree" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
         <option value="java.method.parameter.types" />
@@ -53,7 +52,10 @@
         <option value="java.field.name" />
         <option value="java.class.extlist" />
         <option value="java.annotations" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
       </list>
     </option>
   </component>
