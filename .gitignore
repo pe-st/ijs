@@ -6,6 +6,7 @@ extensions/com.intellij.database/data/extractors/
 extensions/com.intellij.database/schema/
 idea14.key
 idea15.key
+idea16.key
 ijs/
 jdbc-drivers/
 migration/
@@ -26,6 +27,7 @@ options/remote-servers.xml
 options/runner.layout.xml
 options/security.xml
 options/statistics.application.usages.xml
+options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
