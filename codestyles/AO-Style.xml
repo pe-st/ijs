@@ -1,16 +1,6 @@
 <code_scheme name="AO-Style">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
-  <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-    <value>
-      <package name="java.awt" withSubpackages="false" static="false" />
-      <package name="org.junit.Assert" withSubpackages="true" static="true" />
-      <package name="org.hamcrest.Matchers" withSubpackages="true" static="true" />
-      <package name="org.mockito.Mockito" withSubpackages="true" static="true" />
-      <package name="org.mockito.Matchers" withSubpackages="true" static="true" />
-      <package name="javax.swing" withSubpackages="false" static="false" />
-    </value>
-  </option>
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
       <package name="" withSubpackages="true" static="true" />

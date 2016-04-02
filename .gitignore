@@ -1,10 +1,14 @@
+consoles/db/
 disabled_plugins.txt
+disabled_update.txt
 eval
+extensions/com.intellij.database/data/extractors/
+extensions/com.intellij.database/schema/
 idea14.key
 idea15.key
 idea16.key
 ijs/
-installed.txt
+jdbc-drivers/
 migration/
 options/applicationLibraries.xml
 options/dimensions.xml
@@ -27,6 +31,7 @@ options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
+options/window.state.xml
 plugins/
 port
 port.lock
