@@ -3,12 +3,9 @@
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="true" />
     </context>
   </template>
   <template name="test" value="@Test&#10;public void $EXPR1$_$EXPR2$_$EXPR3$() {&#10;    // given&#10;    $END$&#10; &#10;    // when&#10;     &#10; &#10;    // then&#10; &#10;}" description="adds a test named unitOfWork_stateUnderTest_expectedBehavior" toReformat="true" toShortenFQNames="true">
