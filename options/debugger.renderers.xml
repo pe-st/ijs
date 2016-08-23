@@ -30,5 +30,12 @@
       <option name="NAME" value="Primitive" />
       <option name="SHOW_HEX_VALUE" value="false" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="byte[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="byte[]" />
+      </Renderer>
+    </CustomRenderers>
   </component>
 </application>
