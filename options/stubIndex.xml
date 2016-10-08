@@ -40,6 +40,7 @@
         <option value="Css.class" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="markdown.flexmark.example.option.index" />
         <option value="java.unit.tree" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
