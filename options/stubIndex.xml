@@ -2,8 +2,7 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="markdown.flexmark.example.option.index" />
-        <option value="java.unit.tree" />
+        <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
         <option value="java.method.parameter.types" />
@@ -56,6 +55,7 @@
         <option value="gr.field.name" />
         <option value="gr.script.fqn" />
         <option value="gr.class.fqn" />
+        <option value="markdown.flexmark.example.option.index" />
         <option value="cfml.interface.shortName" />
         <option value="cfml.inheritors.shortName" />
         <option value="cfml.component.shortName" />
@@ -66,6 +66,7 @@
         <option value="amd.baseUrl.index" />
         <option value="js.symbol.qualified.names.index" />
         <option value="JS.subclass.stub.index" />
+        <option value="js.namespace.including.local.members.index" />
         <option value="js.namespace.index" />
         <option value="js.class.index2" />
         <option value="JS.base.types.index" />
@@ -80,6 +81,7 @@
         <option value="js.element.qualifiedName" />
         <option value="js.qualified.shortName" />
         <option value="properties.index" />
+        <option value="Css.custom.mixin" />
         <option value="Css.custom.property" />
         <option value="Css.attr" />
         <option value="Css.id" />
