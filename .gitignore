@@ -4,9 +4,7 @@ disabled_update.txt
 eval
 extensions/com.intellij.database/data/extractors/
 extensions/com.intellij.database/schema/
-idea14.key
-idea15.key
-idea16.key
+idea*.key
 ijs/
 jdbc-drivers/
 migration/
@@ -21,6 +19,7 @@ options/javaeeAppServers.xml
 options/jdk.table.xml
 options/options.xml
 options/other.xml
+options/proxy.settings.pwd
 options/recentProjects.xml
 options/remote-server-client-libraries.xml
 options/remote-servers.xml
