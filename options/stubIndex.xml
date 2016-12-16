@@ -2,6 +2,9 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="markdown.referenceable-text.index" />
+        <option value="markdown.plain-text-element.index" />
+        <option value="markdown.link-element.index" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />

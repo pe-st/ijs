@@ -25,6 +25,7 @@ options/remote-server-client-libraries.xml
 options/remote-servers.xml
 options/runner.layout.xml
 options/security.xml
+options/sonarlint.xml
 options/statistics.application.usages.xml
 options/updates.xml
 options/usage.statistics.xml
@@ -35,4 +36,5 @@ plugins/
 port
 port.lock
 settingsRepository/
+sonarlint/storage/
 tasks/
