@@ -1,3 +1,4 @@
+*.kdbx
 consoles/db/
 disabled_plugins.txt
 disabled_update.txt
@@ -32,9 +33,12 @@ options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
 options/window.state.xml
+pdb.pwd
 plugins/
 port
 port.lock
+scratches.xml
+scratches/
 settingsRepository/
 sonarlint/storage/
 tasks/

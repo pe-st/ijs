@@ -93,6 +93,11 @@
         <option value="Css.class" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="js.exported.index" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex" />
       </list>
     </option>
   </component>
