@@ -21,6 +21,7 @@
         <option value="Scss.variable" />
         <option value="Less.variables" />
         <option value="Less.mixins" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
@@ -31,13 +32,16 @@
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex" />
@@ -61,6 +65,9 @@
         <option value="sql.names" />
         <option value="sql.column.name" />
         <option value="sql.table.shortName" />
+        <option value="js.nonglobal.symbol.index" />
+        <option value="js.exported.index" />
+        <option value="js.global.symbol.index" />
         <option value="amd.requirePaths.index" />
         <option value="amd.baseUrl.index" />
         <option value="js.symbol.qualified.names.index" />
