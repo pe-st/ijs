@@ -17,7 +17,7 @@
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
           </PanelProvider>
         </PreviewSettings>
-        <ParserSettings>
+        <ParserSettings gitHubSyntaxChange="false">
           <PegdownExtensions>
             <option name="ABBREVIATIONS" value="false" />
             <option name="ANCHORLINKS" value="true" />
@@ -25,6 +25,7 @@
             <option name="ATXHEADERSPACE" value="true" />
             <option name="AUTOLINKS" value="true" />
             <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
             <option name="FENCED_CODE_BLOCKS" value="true" />
             <option name="FOOTNOTES" value="false" />
             <option name="HARDWRAPS" value="false" />
@@ -161,8 +162,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
