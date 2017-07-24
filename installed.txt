@@ -1,0 +1,8 @@
+ASM Bytecode Outline
+Docker
+GrepConsole
+com.dubreuia
+com.vladsch.idea.multimarkdown
+de.netnexus.camelcaseplugin
+org.sonarlint.idea
+org.sylfra.idea.plugins.linessorter

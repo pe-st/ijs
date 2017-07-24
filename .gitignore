@@ -28,6 +28,7 @@ options/runner.layout.xml
 options/security.xml
 options/sonarlint.xml
 options/statistics.application.usages.xml
+options/statistics.shortcuts.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
