@@ -12,7 +12,7 @@
         <version value="1.0" />
       </component>
       <component name="MarkdownProjectSettings">
-        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true">
           <PanelProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
           </PanelProvider>
@@ -29,6 +29,7 @@
             <option name="FENCED_CODE_BLOCKS" value="true" />
             <option name="FOOTNOTES" value="false" />
             <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
             <option name="INSERTED" value="false" />
             <option name="QUOTES" value="false" />
             <option name="RELAXEDHRULES" value="true" />
@@ -162,7 +163,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="com.dubreuia.ui.Configuration" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
@@ -255,6 +256,20 @@
           <listeners />
           <method />
         </configuration>
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+          </set>
+        </option>
+        <option name="exclusions">
+          <set>
+            <option value=".*\.sql" />
+          </set>
+        </option>
       </component>
       <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:/Daten/src/fo_java/ao/tools/intellij" Dictionaries="0" />
       <component name="VcsContentAnnotationSettings">
