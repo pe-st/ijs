@@ -99,6 +99,12 @@
                 <id />
               </State>
               <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
                 <id>Code style issuesJava</id>
               </State>
               <State>
@@ -106,6 +112,9 @@
               </State>
               <State>
                 <id>Finalization issuesJava</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
               </State>
               <State>
                 <id>Groovy</id>
@@ -120,13 +129,28 @@
                 <id>JSP Inspections</id>
               </State>
               <State>
+                <id>JUnit issuesJava</id>
+              </State>
+              <State>
                 <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
               </State>
               <State>
                 <id>Java language level migration aidsJava</id>
               </State>
               <State>
                 <id>JavaBeans issuesJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
               </State>
               <State>
                 <id>Kotlin</id>
@@ -150,6 +174,18 @@
                 <id>Serialization issuesJava</id>
               </State>
               <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
                 <id>Verbose or redundant code constructsJava</id>
               </State>
             </expanded-state>
@@ -163,8 +199,8 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="com.dubreuia.ui.Configuration" />
-        <property name="project.structure.last.edited" value="Project" />
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+        <property name="project.structure.last.edited" value="Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
         <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />

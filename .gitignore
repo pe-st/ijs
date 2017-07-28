@@ -1,4 +1,5 @@
 *.kdbx
+consoles/.history/
 consoles/db/
 disabled_plugins.txt
 disabled_update.txt
