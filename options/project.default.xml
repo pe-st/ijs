@@ -99,107 +99,92 @@
                 <id />
               </State>
               <State>
-                <id>Class structureJava</id>
+                <id>Class structure</id>
               </State>
               <State>
-                <id>Code maturity issuesJava</id>
+                <id>Code maturity issues</id>
               </State>
               <State>
-                <id>Code style issuesJava</id>
+                <id>Code style issues</id>
               </State>
               <State>
-                <id>Compiler issuesJava</id>
+                <id>Compiler issues</id>
               </State>
               <State>
-                <id>Finalization issuesJava</id>
+                <id>Finalization issues</id>
               </State>
               <State>
-                <id>Google Web Toolkit issues</id>
+                <id>Inheritance issues</id>
               </State>
               <State>
-                <id>Groovy</id>
+                <id>J2ME issues</id>
               </State>
               <State>
-                <id>Inheritance issuesJava</id>
+                <id>JUnit issues</id>
               </State>
               <State>
-                <id>J2ME issuesJava</id>
+                <id>Java 5Java language level migration aids</id>
               </State>
               <State>
-                <id>JSP Inspections</id>
+                <id>Java 7Java language level migration aids</id>
               </State>
               <State>
-                <id>JUnit issuesJava</id>
+                <id>Java 8Java language level migration aids</id>
               </State>
               <State>
-                <id>Java</id>
+                <id>Java language level migration aids</id>
               </State>
               <State>
-                <id>Java 5Java language level migration aidsJava</id>
+                <id>JavaBeans issues</id>
               </State>
               <State>
-                <id>Java 7Java language level migration aidsJava</id>
+                <id>Javadoc issues</id>
               </State>
               <State>
-                <id>Java 8Java language level migration aidsJava</id>
+                <id>Numeric issues</id>
               </State>
               <State>
-                <id>Java language level migration aidsJava</id>
+                <id>Other</id>
               </State>
               <State>
-                <id>JavaBeans issuesJava</id>
+                <id>Performance issues</id>
               </State>
               <State>
-                <id>Javadoc issuesJava</id>
+                <id>Probable bugs</id>
               </State>
               <State>
-                <id>Kotlin</id>
+                <id>Security issues</id>
               </State>
               <State>
-                <id>Numeric issuesJava</id>
+                <id>Serialization issues</id>
               </State>
               <State>
-                <id>OtherGroovy</id>
+                <id>Spring AOP</id>
               </State>
               <State>
-                <id>Performance issuesJava</id>
+                <id>TestNG</id>
               </State>
               <State>
-                <id>Probable bugsJava</id>
+                <id>Threading issues</id>
               </State>
               <State>
-                <id>Security issuesJava</id>
-              </State>
-              <State>
-                <id>Serialization issuesJava</id>
-              </State>
-              <State>
-                <id>Spring</id>
-              </State>
-              <State>
-                <id>Spring AOPSpring</id>
-              </State>
-              <State>
-                <id>TestNGJava</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-              <State>
-                <id>Verbose or redundant code constructsJava</id>
+                <id>Verbose or redundant code constructs</id>
               </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>Ant inspections</id>
+                <id />
               </State>
             </selected-state>
           </profile-state>
         </entry>
+        <entry key="Sonarlint">
+          <profile-state />
+        </entry>
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
         <property name="project.structure.last.edited" value="Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
