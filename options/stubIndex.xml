@@ -2,8 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="java.method.name" />
-        <option value="java.field.name" />
         <option value="java.class.extlist" />
         <option value="java.annotations" />
         <option value="Stylus.mixins" />
@@ -66,7 +64,6 @@
         <option value="angularjs.symbol.index" />
         <option value="angularjs.filter.index" />
         <option value="angularjs.module.index" />
-        <option value="angularjs.decorators.index" />
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.doc.index" />
         <option value="angularjs.directives.index" />
@@ -100,6 +97,7 @@
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
         <option value="js.gcl.modules" />
+        <option value="angularjs.decorators.index" />
         <option value="es6.assignment.index" />
         <option value="Css.ampersand.selector" />
         <option value="java.module.name" />
@@ -109,6 +107,8 @@
         <option value="java.anonymous.baseref" />
         <option value="jvm.static.member.type" />
         <option value="jvm.static.member.name" />
+        <option value="java.method.name" />
+        <option value="java.field.name" />
       </list>
     </option>
   </component>
