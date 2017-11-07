@@ -2,6 +2,7 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="Scss.mixin" />
         <option value="Scss.function" />
         <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
@@ -95,6 +96,10 @@
         <option value="Css.ampersand.selector" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="markdown.link-element.index" />
+        <option value="markdown.flexmark.example.option.index" />
+        <option value="markdown.referenceable-text.index" />
+        <option value="markdown.plain-text-element.index" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
@@ -106,13 +111,8 @@
         <option value="java.field.name" />
         <option value="java.class.extlist" />
         <option value="java.annotations" />
-        <option value="markdown.referenceable-text.index" />
-        <option value="markdown.plain-text-element.index" />
-        <option value="markdown.link-element.index" />
-        <option value="markdown.flexmark.example.option.index" />
         <option value="Stylus.mixins" />
         <option value="Stylus.variables" />
-        <option value="Scss.mixin" />
       </list>
     </option>
   </component>
