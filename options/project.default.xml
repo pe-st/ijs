@@ -98,10 +98,28 @@
               <State>
                 <id />
               </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+              </State>
+              <State>
+                <id>Manifest</id>
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring CoreSpring</id>
+              </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>Android</id>
+                <id>AndroidLintTypos</id>
               </State>
             </selected-state>
           </profile-state>
@@ -112,7 +130,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
         <property name="project.structure.last.edited" value="SDKs" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />

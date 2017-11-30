@@ -2,10 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="Scss.mixin" />
-        <option value="Scss.function" />
-        <option value="Scss.placeholder.selector" />
-        <option value="Scss.variable" />
         <option value="Less.variables" />
         <option value="Less.mixins" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
@@ -60,12 +56,12 @@
         <option value="angularjs.symbol.index" />
         <option value="angularjs.filter.index" />
         <option value="angularjs.module.index" />
-        <option value="angularjs.decorators.index" />
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.doc.index" />
         <option value="angularjs.directives.index" />
         <option value="js.gcl.modules" />
         <option value="js.nonglobal.symbol.index" />
+        <option value="ts.local.classes" />
         <option value="es6.assignment.index" />
         <option value="js.exported.index" />
         <option value="js.global.symbol.index" />
@@ -96,10 +92,6 @@
         <option value="Css.ampersand.selector" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
-        <option value="markdown.link-element.index" />
-        <option value="markdown.flexmark.example.option.index" />
-        <option value="markdown.referenceable-text.index" />
-        <option value="markdown.plain-text-element.index" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
@@ -111,8 +103,16 @@
         <option value="java.field.name" />
         <option value="java.class.extlist" />
         <option value="java.annotations" />
+        <option value="markdown.referenceable-text.index" />
+        <option value="markdown.plain-text-element.index" />
+        <option value="markdown.link-element.index" />
+        <option value="markdown.flexmark.example.option.index" />
         <option value="Stylus.mixins" />
         <option value="Stylus.variables" />
+        <option value="Scss.mixin" />
+        <option value="Scss.function" />
+        <option value="Scss.placeholder.selector" />
+        <option value="Scss.variable" />
       </list>
     </option>
   </component>
