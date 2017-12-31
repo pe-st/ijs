@@ -153,6 +153,7 @@
         <property name="project.structure.last.edited" value="Global Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
