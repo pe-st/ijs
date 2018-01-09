@@ -130,11 +130,12 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
         <property name="project.structure.last.edited" value="Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
         <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -232,8 +233,10 @@
             <option value="reformat" />
           </set>
         </option>
+        <option name="configurationPath" value="" />
         <option name="exclusions">
           <set>
+            <option value=".*\.properties" />
             <option value=".*\.sql" />
           </set>
         </option>
