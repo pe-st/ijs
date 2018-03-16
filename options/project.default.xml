@@ -7,10 +7,6 @@
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
-      <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <version value="1.0" />
-      </component>
       <component name="MarkdownProjectSettings">
         <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" openRemoteLinks="true">
           <PanelProvider>
@@ -130,12 +126,13 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+        <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
         <property name="project.structure.last.edited" value="SDKs" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
