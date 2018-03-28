@@ -2,9 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="Less.mixins" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
@@ -59,6 +56,7 @@
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.doc.index" />
         <option value="angularjs.directives.index" />
+        <option value="js.doc.modules" />
         <option value="js.gcl.modules" />
         <option value="js.nonglobal.symbol.index" />
         <option value="ts.local.classes" />
@@ -110,6 +108,9 @@
         <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
         <option value="Less.variables" />
+        <option value="Less.mixins" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
       </list>
     </option>
   </component>

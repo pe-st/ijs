@@ -1,0 +1,7 @@
+GrepConsole
+com.dubreuia
+de.netnexus.camelcaseplugin
+org.mapstruct.intellij
+org.nik.presentation-assistant
+org.sonarlint.idea
+org.sylfra.idea.plugins.linessorter

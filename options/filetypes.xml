@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.sonar;.sonar_lock;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
