@@ -1,6 +1,9 @@
+Docker
 GrepConsole
+String Manipulation
 com.dubreuia
 de.netnexus.camelcaseplugin
+org.asciidoctor.intellij.asciidoc
 org.mapstruct.intellij
 org.nik.presentation-assistant
 org.sonarlint.idea

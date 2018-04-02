@@ -2,6 +2,9 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="Less.mixins" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
@@ -108,9 +111,6 @@
         <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
         <option value="Less.variables" />
-        <option value="Less.mixins" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
       </list>
     </option>
   </component>
