@@ -84,6 +84,9 @@
           </MavenGeneralSettings>
         </option>
       </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
       <component name="ProjectDictionaryState">
         <dictionary name="tksnp" />
       </component>
