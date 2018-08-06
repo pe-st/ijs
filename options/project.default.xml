@@ -94,6 +94,9 @@
           </MavenGeneralSettings>
         </option>
       </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
