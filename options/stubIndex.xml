@@ -2,11 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex" />
@@ -55,11 +50,13 @@
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.doc.index" />
         <option value="angularjs.directives.index" />
+        <option value="js.amd.modules" />
         <option value="js.doc.modules" />
         <option value="js.gcl.modules" />
         <option value="js.nonglobal.symbol.index" />
         <option value="ts.local.classes" />
         <option value="es6.assignment.index" />
+        <option value="es6.exported.index" />
         <option value="js.exported.index" />
         <option value="js.global.symbol.index" />
         <option value="amd.requirePaths.index" />
@@ -89,7 +86,6 @@
         <option value="Css.ampersand.selector" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
-        <option value="es6.exported.index" />
         <option value="ini.property.key" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
@@ -116,6 +112,11 @@
         <option value="Less.mixins" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
       </list>
     </option>
   </component>
