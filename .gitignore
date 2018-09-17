@@ -11,6 +11,7 @@ ijs/
 jdbc-drivers/
 migration/
 options/applicationLibraries.xml
+options/dataSources*.xml
 options/dimensions.xml
 options/dslActivation.xml
 options/eclipseCodeFormatter.xml
