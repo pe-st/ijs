@@ -53,14 +53,18 @@
             <option name="GITBOOK_URL_ENCODING" value="false" />
             <option name="GITHUB_LISTS" value="true" />
             <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="GITLAB_EXT" value="false" />
+            <option name="GITLAB_MATH_EXT" value="false" />
+            <option name="GITLAB_MERMAID_EXT" value="false" />
             <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
             <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="MACROS_EXT" value="false" />
             <option name="NO_TEXT_ATTRIBUTES" value="false" />
             <option name="PARSE_HTML_ANCHOR_ID" value="false" />
             <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
           </ParserOptions>
         </ParserSettings>
-        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false">
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true">
           <GeneratorProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
           </GeneratorProvider>
@@ -138,10 +142,10 @@
         <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.last.edited" value="SDKs" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -235,6 +239,7 @@
         <option name="actions">
           <set>
             <option value="activate" />
+            <option value="noActionIfCompileErrors" />
             <option value="organizeImports" />
             <option value="reformat" />
           </set>
@@ -267,7 +272,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>11</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
