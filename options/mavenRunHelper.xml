@@ -34,6 +34,12 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:display-dependency-updates versions:display-plugin-updates" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="help:effective-pom" />
+            </Goal>
           </list>
         </option>
       </Goals>
