@@ -21,6 +21,7 @@ options/find.recents.xml
 options/find.xml
 options/javaeeAppServers.xml
 options/jdk.table.xml
+options/markdown_navigator.local.xml
 options/options.xml
 options/other.xml
 options/proxy.settings.pwd
@@ -31,6 +32,7 @@ options/runner.layout.xml
 options/security.xml
 options/sonarlint.xml
 options/statistics.*.xml
+options/stubIndex.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
