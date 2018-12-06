@@ -4,7 +4,7 @@
       <component name="CompilerConfiguration">
         <bytecodeTargetLevel target="1.8" />
       </component>
-      <component name="Encoding">
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="MarkdownProjectSettings" wasCopied="true">
@@ -56,6 +56,7 @@
             <option name="GITLAB_EXT" value="false" />
             <option name="GITLAB_MATH_EXT" value="false" />
             <option name="GITLAB_MERMAID_EXT" value="false" />
+            <option name="HEADER_ID_NON_ASCII_TO_LOWERCASE" value="false" />
             <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
             <option name="JEKYLL_FRONT_MATTER" value="false" />
             <option name="MACROS_EXT" value="false" />
@@ -64,7 +65,7 @@
             <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
           </ParserOptions>
         </ParserSettings>
-        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true">
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false">
           <GeneratorProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
           </GeneratorProvider>
@@ -81,7 +82,7 @@
           <cssText />
           <cssUriHistory />
         </CssSettings>
-        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetPathType="2" targetExt="" useTargetExt="false" noCssNoScripts="false" useElementStyleAttribute="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
         <LinkMapSettings>
           <textMaps />
         </LinkMapSettings>

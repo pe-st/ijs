@@ -40,6 +40,12 @@
             <Goal>
               <option name="commandLine" value="help:effective-pom" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:tree" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="test-compile" />
+            </Goal>
           </list>
         </option>
       </Goals>
