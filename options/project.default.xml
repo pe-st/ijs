@@ -101,7 +101,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="/usr/local/Cellar/maven/3.5.2/libexec" />
+            <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.0/libexec" />
           </MavenGeneralSettings>
         </option>
       </component>
