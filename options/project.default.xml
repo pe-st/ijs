@@ -164,7 +164,7 @@
         <property name="project.structure.last.edited" value="Global Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -257,10 +257,12 @@
         <option name="actions">
           <set>
             <option value="activate" />
+            <option value="noActionIfCompileErrors" />
             <option value="organizeImports" />
             <option value="reformat" />
           </set>
         </option>
+        <option name="configurationPath" value="" />
         <option name="exclusions">
           <set>
             <option value=".*\.sql" />
