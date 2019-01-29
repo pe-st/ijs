@@ -46,6 +46,9 @@
             <Goal>
               <option name="commandLine" value="test-compile" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:resolve -Dclassifier=sources" />
+            </Goal>
           </list>
         </option>
       </Goals>
