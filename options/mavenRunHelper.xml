@@ -40,6 +40,9 @@
             <Goal>
               <option name="commandLine" value="help:effective-pom" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:resolve -Dclassifier=sources" />
+            </Goal>
           </list>
         </option>
       </Goals>
