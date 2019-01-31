@@ -47,3 +47,4 @@ scratches/
 settingsRepository/
 sonarlint/storage/
 tasks/
+user.web.token
