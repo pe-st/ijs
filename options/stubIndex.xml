@@ -2,6 +2,7 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="markdown.header" />
         <option value="Django.foreignKey" />
         <option value="Python.Decorator" />
         <option value="ini.property.key" />
@@ -23,10 +24,6 @@
         <option value="java.field.name" />
         <option value="java.class.extlist" />
         <option value="java.annotations" />
-        <option value="markdown.referenceable-text.index" />
-        <option value="markdown.plain-text-element.index" />
-        <option value="markdown.link-element.index" />
-        <option value="markdown.flexmark.example.option.index" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />

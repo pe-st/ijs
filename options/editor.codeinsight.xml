@@ -7,9 +7,9 @@
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.util.PropertyState" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
+    <EXCLUDED_PACKAGE NAME="net.bytebuddy.matcher.ElementMatchers" />
+    <EXCLUDED_PACKAGE NAME="nl.jqno.equalsverifier.internal.lib.bytebuddy.matcher.ElementMatchers" />
     <EXCLUDED_PACKAGE NAME="org.apache.webbeans.util.Asserts" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers.containsString" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.Is" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
     <EXCLUDED_PACKAGE NAME="org.mockito.MockitoAnnotations" />

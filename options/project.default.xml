@@ -62,10 +62,12 @@
             <option name="MACROS_EXT" value="false" />
             <option name="NO_TEXT_ATTRIBUTES" value="false" />
             <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+            <option name="PLANTUML_FENCED_CODE" value="false" />
+            <option name="PUML_FENCED_CODE" value="false" />
             <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
           </ParserOptions>
         </ParserSettings>
-        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false">
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" plantUmlConversion="0" mathConversion="-1">
           <GeneratorProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
           </GeneratorProvider>
@@ -102,17 +104,102 @@
         <entry key="Project Default">
           <profile-state>
             <expanded-state>
+              <State />
               <State>
-                <id />
+                <id>Abstraction issuesJava</id>
               </State>
               <State>
-                <id>Android &gt; Lint &gt; Correctness</id>
+                <id>Android</id>
               </State>
               <State>
-                <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>CoffeeScript</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>ECMAScript 6 migration aidsJavaScript</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>FreeMarker</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>ImportsJava</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>JBoss Seam</id>
+              </State>
+              <State>
+                <id>JSP</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>JavaFX</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>Less</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>LoggingJava</id>
               </State>
               <State>
                 <id>Manifest</id>
+              </State>
+              <State>
+                <id>MessagesCorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsGroovy</id>
+              </State>
+              <State>
+                <id>Probable bugsCoffeeScript</id>
+              </State>
+              <State>
+                <id>Python</id>
+              </State>
+              <State>
+                <id>Redundant constructsKotlin</id>
+              </State>
+              <State>
+                <id>Sass/SCSS</id>
               </State>
               <State>
                 <id>Spelling</id>
@@ -122,6 +209,18 @@
               </State>
               <State>
                 <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>StyleGroovy</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+              <State>
+                <id>UsabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>Verbose or redundant code constructsJava</id>
               </State>
             </expanded-state>
             <selected-state>
@@ -143,7 +242,7 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
