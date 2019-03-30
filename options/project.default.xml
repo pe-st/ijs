@@ -4,7 +4,7 @@
       <component name="CompilerConfiguration">
         <bytecodeTargetLevel target="1.8" />
       </component>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+      <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="GradleLocalSettings">
