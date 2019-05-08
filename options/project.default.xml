@@ -103,7 +103,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.0/libexec" />
+            <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.1/libexec" />
           </MavenGeneralSettings>
         </option>
       </component>
@@ -166,7 +166,7 @@
         <property name="project.structure.last.edited" value="Global Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
       </component>
       <component name="RemoteRepositoriesConfiguration">
         <remote-repository>

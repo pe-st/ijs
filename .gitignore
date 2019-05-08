@@ -1,3 +1,6 @@
+# Git bundles
+*.bundle
+
 *.kdbx
 consoles/.history/
 consoles/db/
@@ -47,4 +50,5 @@ scratches/
 settingsRepository/
 sonarlint/storage/
 tasks/
+terminal/history/
 user.web.token
