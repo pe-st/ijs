@@ -75,7 +75,9 @@
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
-    <option name="ENUM_CONSTANTS_WRAP" value="2" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />

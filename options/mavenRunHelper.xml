@@ -49,9 +49,6 @@
             <Goal>
               <option name="commandLine" value="dependency:resolve -Dclassifier=sources" />
             </Goal>
-            <Goal>
-              <option name="commandLine" value="compile quarkus:dev" />
-            </Goal>
           </list>
         </option>
       </Goals>
@@ -79,7 +76,6 @@
         </option>
       </Goals>
     </option>
-    <option name="useIgnoredPoms" value="true" />
     <option name="version" value="1" />
   </component>
 </application>
