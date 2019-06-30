@@ -45,6 +45,7 @@ pdb.pwd
 plugins/
 port
 port.lock
+proxy_config
 scratches.xml
 scratches/
 settingsRepository/
