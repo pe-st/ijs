@@ -53,3 +53,4 @@ sonarlint/storage/
 tasks/
 terminal/history/
 user.web.token
+workspace/*.xml
