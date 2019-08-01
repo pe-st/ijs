@@ -14,6 +14,9 @@
               <option name="commandLine" value="compile" />
             </Goal>
             <Goal>
+              <option name="commandLine" value="test-compile" />
+            </Goal>
+            <Goal>
               <option name="commandLine" value="test" />
             </Goal>
             <Goal>
@@ -26,10 +29,7 @@
               <option name="commandLine" value="install" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="deploy" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="site" />
+              <option name="commandLine" value="clean package" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean install" />
@@ -44,38 +44,11 @@
               <option name="commandLine" value="dependency:tree" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="test-compile" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="dependency:resolve -Dclassifier=sources" />
             </Goal>
           </list>
         </option>
       </Goals>
     </option>
-    <option name="pluginAwareGoals">
-      <Goals>
-        <option name="goals">
-          <list>
-            <Goal>
-              <option name="commandLine" value="jetty:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat5:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat6:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat7:run" />
-            </Goal>
-          </list>
-        </option>
-      </Goals>
-    </option>
-    <option name="version" value="1" />
   </component>
 </application>
