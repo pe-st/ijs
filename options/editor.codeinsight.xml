@@ -3,8 +3,9 @@
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="" />
     <EXCLUDED_PACKAGE NAME="com.mysema" />
-    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.util.PropertyState" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.*" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
     <EXCLUDED_PACKAGE NAME="net.bytebuddy.matcher.ElementMatchers" />
