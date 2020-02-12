@@ -49,6 +49,9 @@
             <Goal>
               <option name="commandLine" value="dependency:resolve -Dclassifier=sources" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="org.owasp:dependency-check-maven:aggregate" />
+            </Goal>
           </list>
         </option>
       </Goals>
