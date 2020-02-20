@@ -9,6 +9,8 @@ disabled_update.txt
 eval
 extensions/com.intellij.database/data/extractors/
 extensions/com.intellij.database/schema/
+extensions/com.intellij.database/schema.layouts/
+extensions/com.intellij.javaee/orm.generators/
 idea*.key
 ijs/
 jdbc-drivers/
@@ -16,6 +18,7 @@ migration/
 options/applicationLibraries.xml
 options/dataSources*.xml
 options/dataSources/*.xml
+options/dataSources/*/storage_v2/
 options/dimensions.xml
 options/dslActivation.xml
 options/eclipseCodeFormatter.xml
