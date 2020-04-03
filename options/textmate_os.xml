@@ -170,6 +170,14 @@
           <option name="name" value="yaml" />
           <option name="path" value="$APPLICATION_HOME_DIR$/plugins/textmate/lib/bundles/yaml" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="mdx" />
+          <option name="path" value="$APPLICATION_HOME_DIR$/plugins/textmate/lib/bundles/mdx" />
+        </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="search-result" />
+          <option name="path" value="$APPLICATION_HOME_DIR$/plugins/textmate/lib/bundles/search-result" />
+        </BundleConfigBean>
       </list>
     </option>
   </component>
