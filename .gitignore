@@ -15,6 +15,7 @@ idea*.key
 ijs/
 jdbc-drivers/
 migration/
+options/actionSummary.xml
 options/applicationLibraries.xml
 options/dataSources*.xml
 options/dataSources/*.xml
