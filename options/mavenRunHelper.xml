@@ -52,6 +52,9 @@
             <Goal>
               <option name="commandLine" value="org.owasp:dependency-check-maven:aggregate" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="quarkus-bootstrap:build-tree" />
+            </Goal>
           </list>
         </option>
       </Goals>
