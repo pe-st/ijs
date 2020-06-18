@@ -45,6 +45,7 @@ options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
 options/window.state.xml
+options/wsl.distributions.xml
 pdb.pwd
 plugins/
 port
