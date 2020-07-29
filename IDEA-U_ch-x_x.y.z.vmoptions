@@ -1,5 +1,5 @@
 -Xms128m
--Xmx750m
+-Xmx1125m
 -XX:ReservedCodeCacheSize=240m
 -XX:+UseConcMarkSweepGC
 -XX:SoftRefLRUPolicyMSPerMB=50
@@ -13,3 +13,4 @@
 -Dkotlinx.coroutines.debug=off
 -Djdk.module.illegalAccess.silent=true
 -Dide.no.platform.update=true
+-Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-1\\202.6397.59.plugins
