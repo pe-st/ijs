@@ -234,7 +234,7 @@
           <profile-state />
         </entry>
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -358,18 +358,11 @@
           <state key="GlobalLibrariesConfigurable.UI">
             <settings>
               <last-edited>groovy-2.5.4</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
             </settings>
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>11</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -391,17 +384,7 @@
               </splitter-proportions>
             </settings>
           </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
+          <state key="ProjectLibrariesConfigurable.UI" />
         </states>
       </component>
     </defaultProject>
