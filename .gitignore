@@ -40,7 +40,6 @@ options/remote-server-client-libraries.xml
 options/remote-servers.xml
 options/runner.layout.xml
 options/security.xml
-options/sonarlint.xml
 options/statistics.*.xml
 options/stubIndex.xml
 options/updates.xml
