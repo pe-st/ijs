@@ -4,7 +4,7 @@
       <plugin id="com.intellij" version="IU-172.4574.5" />
       <plugin id="com.intellij.database" version="IU-192.6262.58" />
       <plugin id="com.intellij.javaee" version="IU-192.6262.58" />
-      <plugin id="com.intellij.javaee.jpa" version="IU-202.6397.94" />
+      <plugin id="com.intellij.javaee.jpa" version="IU-202.6948.69" />
     </pluginVersions>
   </component>
 </application>
