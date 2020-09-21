@@ -13,4 +13,4 @@
 -Dkotlinx.coroutines.debug=off
 -Djdk.module.illegalAccess.silent=true
 -Dide.no.platform.update=true
--Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\202.6397.94.plugins
+-Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\202.7319.50.plugins
