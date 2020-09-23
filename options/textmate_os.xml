@@ -178,6 +178,10 @@
           <option name="name" value="search-result" />
           <option name="path" value="$APPLICATION_HOME_DIR$/plugins/textmate/lib/bundles/search-result" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="kotlin" />
+          <option name="path" value="$APPLICATION_HOME_DIR$/plugins/textmate/lib/bundles/kotlin" />
+        </BundleConfigBean>
       </list>
     </option>
   </component>

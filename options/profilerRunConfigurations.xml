@@ -1,5 +1,10 @@
 <application>
   <component name="ProfilerRunConfigurations">
     <profilerRunConfigurations />
+    <knownConfigurationTypes>
+      <id>AsyncProfilerCPUConfiguration</id>
+      <id>AsyncProfilerMemoryConfiguration</id>
+      <id>JFRSimpleConfiguration</id>
+    </knownConfigurationTypes>
   </component>
 </application>
