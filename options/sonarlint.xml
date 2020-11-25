@@ -1,6 +1,7 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -15,8 +16,8 @@
       <Rule active="false" key="java:S1135" />
       <Rule active="false" key="java:S5786" />
       <Rule active="false" key="java:S1066" />
-      <Rule active="false" key="java:S2699" />
       <Rule active="false" key="java:S5778" />
+      <Rule active="false" key="java:S2699" />
     </rules>
   </component>
 </application>
