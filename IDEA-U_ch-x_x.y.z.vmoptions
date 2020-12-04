@@ -1,11 +1,9 @@
 -Xms128m
 -Xmx2048m
--XX:ReservedCodeCacheSize=240m
 -XX:+UseConcMarkSweepGC
 -XX:SoftRefLRUPolicyMSPerMB=50
 -ea
 -XX:CICompilerCount=2
--Dsun.io.useCanonPrefixCache=false
 -Djdk.http.auth.tunneling.disabledSchemes=""
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:-OmitStackTraceInFastThrow
@@ -13,4 +11,6 @@
 -Dkotlinx.coroutines.debug=off
 -Djdk.module.illegalAccess.silent=true
 -Dide.no.platform.update=true
--Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\202.7319.50.plugins
+-Dsun.io.useCanonCaches=false
+-XX:ReservedCodeCacheSize=512m
+-Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\203.5981.155.plugins

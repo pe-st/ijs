@@ -92,7 +92,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="c:/local/P/maven3" />
+            <option name="mavenHome" value="c:\local\P\maven3" />
             <option name="userSettingsFile" value="C:\local\P\maven3\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
