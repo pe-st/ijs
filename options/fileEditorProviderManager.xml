@@ -2,6 +2,7 @@
   <component name="FileEditorProviderManager">
     <option name="selectedProviders">
       <map>
+        <entry key="LargeFileEditorProvider,LogFileEditorProvider" value="LogFileEditorProvider" />
         <entry key="text-editor,MavenHelperPluginDependencyAnalyzer" value="text-editor" />
       </map>
     </option>
