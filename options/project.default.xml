@@ -100,13 +100,6 @@
           <textMaps />
         </LinkMapSettings>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.1/libexec" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="NodePackageJsonFileManager">
         <packageJsonPaths />
       </component>
@@ -166,7 +159,7 @@
         <property name="project.structure.last.edited" value="Global Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
       </component>
       <component name="RemoteRepositoriesConfiguration">
         <remote-repository>
@@ -284,7 +277,10 @@
         <option name="configurationPath" value="" />
         <option name="exclusions">
           <set>
+            <option value=".*\.adoc" />
             <option value=".*\.json" />
+            <option value=".*\.md" />
+            <option value=".*\.properties" />
             <option value=".*\.sql" />
           </set>
         </option>
