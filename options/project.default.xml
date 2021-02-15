@@ -242,7 +242,7 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -344,12 +344,14 @@
         <option name="configurationPath" value="" />
         <option name="exclusions">
           <set>
+            <option value=".*\.adoc" />
+            <option value=".*\.md" />
             <option value=".*\.properties" />
             <option value=".*\.sql" />
           </set>
         </option>
       </component>
-      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:/Daten/src/fo_java/ao/tools/intellij" Dictionaries="0" />
+      <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="false" />
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
