@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.sonar;.sonar_lock;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile_test" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="ndjson" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".openapi-generator-ignore" type="PLAIN_TEXT" />

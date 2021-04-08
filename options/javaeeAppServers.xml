@@ -2,18 +2,21 @@
   <component name="AppserversManager">
     <ServerDK NAME="Wildfly 20">
       <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <option name="INTEGRATION_ID" value="JBossIntegration" />
       <DATA>
         <option name="HOME" value="C:\local\P\java\wildfly-20.0.0.Final" />
       </DATA>
     </ServerDK>
     <ServerDK NAME="Wildfly 21">
       <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <option name="INTEGRATION_ID" value="JBossIntegration" />
       <DATA>
         <option name="HOME" value="C:\local\P\Java\wildfly-21.0.1.Final" />
       </DATA>
     </ServerDK>
     <ServerDK NAME="Wildfly 22">
       <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <option name="INTEGRATION_ID" value="JBossIntegration" />
       <DATA>
         <option name="HOME" value="$WILDFLY_22_HOME$" />
       </DATA>

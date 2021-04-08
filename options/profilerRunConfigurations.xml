@@ -6,9 +6,17 @@
           <option name="startSetting" value="profile" />
         </JFRConfigurationState>
       </item>
+      <item configurationTypeId="AsyncProfilerCPUConfiguration">
+        <AsyncProfilerCPUConfigurationState name="CPU Profiler" />
+      </item>
+      <item configurationTypeId="AsyncProfilerMemoryConfiguration">
+        <AsyncProfilerMemoryConfigurationState name="Allocation Profiler" />
+      </item>
     </profilerRunConfigurations>
     <knownConfigurationTypes>
       <id>JFRSimpleConfiguration</id>
+      <id>AsyncProfilerCPUConfiguration</id>
+      <id>AsyncProfilerMemoryConfiguration</id>
     </knownConfigurationTypes>
   </component>
 </application>

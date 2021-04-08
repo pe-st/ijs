@@ -1,6 +1,5 @@
 -Xms128m
 -Xmx2048m
--XX:+UseConcMarkSweepGC
 -XX:SoftRefLRUPolicyMSPerMB=50
 -ea
 -XX:CICompilerCount=2
@@ -13,4 +12,5 @@
 -Dide.no.platform.update=true
 -Dsun.io.useCanonCaches=false
 -XX:ReservedCodeCacheSize=512m
--Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\203.5981.155.plugins
+-XX:+UseG1GC
+-Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\211.6693.111.plugins
