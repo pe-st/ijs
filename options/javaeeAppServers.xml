@@ -21,6 +21,13 @@
         <option name="HOME" value="$WILDFLY_22_HOME$" />
       </DATA>
     </ServerDK>
+    <ServerDK NAME="Wildfly 23">
+      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <option name="INTEGRATION_ID" value="JBossIntegration" />
+      <DATA>
+        <option name="HOME" value="C:/local/P/java/wildfly-23.0.1.Final" />
+      </DATA>
+    </ServerDK>
     <LibraryTable>
       <library name="Wildfly 20">
         <CLASSES>
@@ -42,6 +49,14 @@
         <CLASSES>
           <root url="jar://$WILDFLY_22_HOME$/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-2.0.0.Final.jar!/" />
           <root url="jar://$WILDFLY_22_HOME$/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Wildfly 23">
+        <CLASSES>
+          <root url="jar://C:/local/P/java/wildfly-23.0.1.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-2.0.0.Final.jar!/" />
+          <root url="jar://C:/local/P/java/wildfly-23.0.1.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
