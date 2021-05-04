@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="C:/local/P/maven3_repo" />
-    <macro name="KOTLIN_BUNDLED" value="C:\local\P\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.6693.111\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:\local\P\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.7142.45\plugins\Kotlin\kotlinc" />
     <macro name="REPO_CHECKOUT_RELATIVE_FROM_WILDFLY" value="../../../../../src/bitbucket/ao" />
     <macro name="REPO_CHECKOUT_ROOT" value="C:/local/src/bitbucket/ao" />
     <macro name="WILDFLY_20_HOME" value="C:/local/P/java/wildfly-20.0.0.Final" />

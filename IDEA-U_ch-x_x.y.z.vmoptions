@@ -13,4 +13,4 @@
 -Dsun.io.useCanonCaches=false
 -XX:ReservedCodeCacheSize=512m
 -XX:+UseG1GC
--Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\211.6693.111.plugins
+-Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\211.7142.45.plugins
