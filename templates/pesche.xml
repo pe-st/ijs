@@ -17,4 +17,16 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="date" value="$date$" description="insert the date" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="datim" value="$datim$" description="insert timestamp" toReformat="false" toShortenFQNames="true">
+    <variable name="datim" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
