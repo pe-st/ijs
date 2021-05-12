@@ -4,14 +4,17 @@
       <set>
         <option value="English (US)" />
         <option value="German (Germany)" />
+        <option value="French" />
       </set>
     </option>
     <option name="userDisabledRules">
       <set>
-        <option value="EINHEITEN_METRISCH" />
-        <option value="DE_CASE" />
-        <option value="TYPOGRAFISCHE_ANFUEHRUNGSZEICHEN" />
         <option value="AUSLASSUNGSPUNKTE" />
+        <option value="DE_CASE" />
+        <option value="EINHEITEN_METRISCH" />
+        <option value="LEERZEICHEN_VOR_AUSRUFEZEICHEN_ETC" />
+        <option value="TYPOGRAFISCHE_ANFUEHRUNGSZEICHEN" />
+        <option value="WHITESPACE_RULE" />
       </set>
     </option>
     <option name="userEnabledRules">
@@ -27,6 +30,15 @@
           </set>
         </option>
       </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="SWEDISH" />
+          </set>
+        </option>
+      </State>
     </option>
   </component>
 </application>
