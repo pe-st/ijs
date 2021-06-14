@@ -44,15 +44,9 @@
     </option>
     <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   </JavaCodeStyleSettings>
-  <Markdown>
-    <option name="MIN_LINES_BETWEEN_PARAGRAPHS" value="2" />
-  </Markdown>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <yaml>
     <option name="INDENT_SEQUENCE_VALUE" value="false" />
   </yaml>

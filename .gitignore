@@ -2,6 +2,7 @@
 *.bundle
 
 *.kdbx
+*.license
 *.pwd
 consoles/.history/
 consoles/db/
