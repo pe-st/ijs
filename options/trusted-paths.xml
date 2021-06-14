@@ -3,6 +3,9 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="C:/local/src/github/quarkus/extensions" />
+        <option value="C:/local/src/kazan/aos" />
+        <option value="C:/local/src/fohpns/fojava/main" />
+        <option value="$REPO_CHECKOUT_ROOT$" />
       </list>
     </option>
   </component>
