@@ -21,6 +21,7 @@ jdbc-drivers/
 migration/
 options/actionSummary.xml
 options/applicationLibraries.xml
+options/cachedDictionary.xml
 options/completion*.xml
 options/dataSources*.xml
 options/dataSources/*.xml
