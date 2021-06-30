@@ -9,12 +9,13 @@
     </option>
     <option name="userDisabledRules">
       <set>
+        <option value="WHITESPACE_RULE" />
         <option value="AUSLASSUNGSPUNKTE" />
+        <option value="TYPOGRAFISCHE_ANFUEHRUNGSZEICHEN" />
+        <option value="LEERZEICHEN_VOR_AUSRUFEZEICHEN_ETC" />
         <option value="DE_CASE" />
         <option value="EINHEITEN_METRISCH" />
-        <option value="LEERZEICHEN_VOR_AUSRUFEZEICHEN_ETC" />
-        <option value="TYPOGRAFISCHE_ANFUEHRUNGSZEICHEN" />
-        <option value="WHITESPACE_RULE" />
+        <option value="DE_DU_UPPER_LOWER" />
       </set>
     </option>
     <option name="userEnabledRules">
