@@ -8,8 +8,8 @@
     </option>
     <option name="userDisabledRules">
       <set>
-        <option value="PASSIVE_VOICE" />
         <option value="EG_NO_COMMA" />
+        <option value="PASSIVE_VOICE" />
       </set>
     </option>
   </component>
