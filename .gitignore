@@ -44,6 +44,7 @@ options/remote-server-client-libraries.xml
 options/remote-servers.xml
 options/runner.layout.xml
 options/security.xml
+options/shownTips.xml
 options/statistics.*.xml
 options/stubIndex.xml
 options/updates.xml
@@ -64,5 +65,6 @@ sonarlint/storage/
 ssl/
 tasks/
 terminal/history/
+updatedBrokenPlugins.db
 user.web.token
 workspace/*.xml

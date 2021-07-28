@@ -6,17 +6,19 @@
           <option name="startSetting" value="profile" />
         </JFRConfigurationState>
       </item>
-      <item configurationTypeId="AsyncProfilerCPUConfiguration">
-        <AsyncProfilerCPUConfigurationState name="CPU Profiler" />
+      <item configurationTypeId="AsyncProfilerConfiguration">
+        <AsyncProfilerConfigurationState name="Async Profiler" />
       </item>
-      <item configurationTypeId="AsyncProfilerMemoryConfiguration">
-        <AsyncProfilerMemoryConfigurationState name="Allocation Profiler" />
+      <item configurationTypeId="WinAsyncProfilerConfigurationType">
+        <WinAsyncProfilerConfigurationState name="Windows Async Profiler" />
       </item>
     </profilerRunConfigurations>
     <knownConfigurationTypes>
       <id>JFRSimpleConfiguration</id>
       <id>AsyncProfilerCPUConfiguration</id>
       <id>AsyncProfilerMemoryConfiguration</id>
+      <id>AsyncProfilerConfiguration</id>
+      <id>WinAsyncProfilerConfigurationType</id>
     </knownConfigurationTypes>
   </component>
 </application>
