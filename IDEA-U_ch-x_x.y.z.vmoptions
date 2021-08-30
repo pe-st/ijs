@@ -1,5 +1,5 @@
 -Xms128m
--Xmx2048m
+-Xmx3072m
 -XX:SoftRefLRUPolicyMSPerMB=50
 -ea
 -XX:CICompilerCount=2
@@ -13,6 +13,7 @@
 -Dsun.io.useCanonCaches=false
 -XX:ReservedCodeCacheSize=512m
 -XX:+UseG1GC
--Dtoolbox.notification.token=ptehqJOtth3-WXfJ-_sE_W3rgDkRkmdS_k--Wr7ksX0=
--Dtoolbox.notification.portFile=C:\local\P\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.7628.21.vmoptions.port
--Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\211.7628.21.plugins
+-Dsplash=true
+-Dtoolbox.notification.token=-VEh9crxHi87ETnljW9pa5G6fmW4vm7Mtk98pccvE-0=
+-Dtoolbox.notification.portFile=C:\local\P\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.4746.92.vmoptions.port
+-Didea.plugins.path=C:\\local\\P\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\212.4746.92.plugins

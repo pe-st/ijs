@@ -50,6 +50,7 @@ options/stubIndex.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
+options/web-types-npm-loader.xml
 options/window.manager.xml
 options/window.state.xml
 options/wsl.distributions.xml
