@@ -1,10 +1,10 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="C:/local/P/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.5744.223.plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/local/P/maven3_repo" />
-    <macro name="KOTLIN_BUNDLED" value="C:\local\P\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.4746.92.plugins\Kotlin\kotlinc" />
     <macro name="REPO_CHECKOUT_RELATIVE_FROM_WILDFLY" value="../../../../../src/bitbucket/ao" />
     <macro name="REPO_CHECKOUT_ROOT" value="C:/local/src/bitbucket/ao" />
-    <macro name="WILDFLY_22_HOME" value="C:/local/P/java/wildfly-22.0.0.Final" />
-    <macro name="WILDFLY_22_LOGS" value="$WILDFLY_22_HOME$/standalone/log" />
+    <macro name="WILDFLY_25_HOME" value="C:/local/P/java/wildfly-25.0.1.Final" />
+    <macro name="WILDFLY_25_LOGS" value="$WILDFLY_25_HOME$/standalone/log" />
   </component>
 </application>
