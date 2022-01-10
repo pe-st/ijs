@@ -18,10 +18,7 @@
     </option>
     <rules>
       <Rule active="false" key="java:S1135" />
-      <Rule active="false" key="java:S5786" />
-      <Rule active="false" key="java:S1066" />
-      <Rule active="false" key="java:S2699" />
-      <Rule active="false" key="java:S5778" />
+      <Rule active="false" key="java:S1301" />
     </rules>
   </component>
 </application>
