@@ -235,6 +235,10 @@
         </entry>
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
       <component name="PropertiesComponent">
         <property name="last_opened_file_path" value="C:/Daten/src/fo_java/ao/tools/intellij" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />

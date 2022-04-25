@@ -10,11 +10,12 @@ disabled_plugins.txt
 disabled_update.txt
 eval
 event-log-metadata/
+extensions/com.intellij.database/data/aggregators/
 extensions/com.intellij.database/data/extractors/
 extensions/com.intellij.database/schema/
 extensions/com.intellij.database/schema.layouts/
 extensions/com.intellij.javaee/orm.generators/
-extensions/com.intellij.javaee.jpa/orm.generators/
+extensions/com.intellij.javaee.jpa/
 idea*.key
 ijs/
 jdbc-drivers/
@@ -28,6 +29,7 @@ options/dataSources/*.xml
 options/dataSources/*/storage_v2/
 options/dimensions.xml
 options/dslActivation.xml
+options/dslActivationStatus.xml
 options/eclipseCodeFormatter.xml
 options/feature.usage.statistics.xml
 options/features.usage.statistics.xml
@@ -47,6 +49,7 @@ options/security.xml
 options/shownTips.xml
 options/statistics.*.xml
 options/stubIndex.xml
+options/trusted-paths.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
