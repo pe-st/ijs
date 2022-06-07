@@ -1,8 +1,8 @@
 <application>
   <component name="ProfilerRunConfigurations">
     <profilerRunConfigurations>
-      <item configurationTypeId="AsyncProfilerConfiguration">
-        <AsyncProfilerConfigurationState name="Async Profiler" />
+      <item configurationTypeId="IntellijProfilerConfiguration">
+        <IntellijProfilerConfigurationState name="IntelliJ Profiler" />
       </item>
     </profilerRunConfigurations>
     <knownConfigurationTypes>
@@ -10,6 +10,10 @@
       <id>AsyncProfilerMemoryConfiguration</id>
       <id>JFRSimpleConfiguration</id>
       <id>AsyncProfilerConfiguration</id>
+      <id>IntellijProfilerConfiguration</id>
     </knownConfigurationTypes>
+    <migrationStatus>
+      <status languageGroup="Java Profiler Configuration Type" lastMigrationIndex="3" />
+    </migrationStatus>
   </component>
 </application>

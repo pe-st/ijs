@@ -10,11 +10,12 @@ disabled_plugins.txt
 disabled_update.txt
 eval
 event-log-metadata/
+extensions/com.intellij.database/data/aggregators/
 extensions/com.intellij.database/data/extractors/
 extensions/com.intellij.database/schema/
 extensions/com.intellij.database/schema.layouts/
 extensions/com.intellij.javaee/orm.generators/
-extensions/com.intellij.javaee.jpa/orm.generators/
+extensions/com.intellij.javaee.jpa/
 idea*.key
 ijs/
 jdbc-drivers/
