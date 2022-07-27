@@ -33,6 +33,8 @@ options/dslActivationStatus.xml
 options/eclipseCodeFormatter.xml
 options/feature.usage.statistics.xml
 options/features.usage.statistics.xml
+options/ide-features-trainer.xml
+options/FeatureSuggester.xml
 options/find.recents.xml
 options/find.xml
 options/jdk.table.xml

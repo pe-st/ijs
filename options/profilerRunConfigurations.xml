@@ -6,11 +6,8 @@
           <option name="startSetting" value="profile" />
         </JFRConfigurationState>
       </item>
-      <item configurationTypeId="AsyncProfilerConfiguration">
-        <AsyncProfilerConfigurationState name="Async Profiler" />
-      </item>
-      <item configurationTypeId="WinAsyncProfilerConfigurationType">
-        <WinAsyncProfilerConfigurationState name="Windows Async Profiler" />
+      <item configurationTypeId="IntellijProfilerConfiguration">
+        <IntellijProfilerConfigurationState name="IntelliJ Profiler" />
       </item>
     </profilerRunConfigurations>
     <knownConfigurationTypes>
@@ -19,6 +16,10 @@
       <id>AsyncProfilerMemoryConfiguration</id>
       <id>AsyncProfilerConfiguration</id>
       <id>WinAsyncProfilerConfigurationType</id>
+      <id>IntellijProfilerConfiguration</id>
     </knownConfigurationTypes>
+    <migrationStatus>
+      <status languageGroup="Java Profiler Configuration Type" lastMigrationIndex="3" />
+    </migrationStatus>
   </component>
 </application>

@@ -1,5 +1,6 @@
 <application>
   <component name="DockerSettings">
     <option name="dockerMachinePath" value="docker-machine" />
+    <option name="dockerPath" value="C:\ProgramData\DockerDesktop\version-bin\docker.exe" />
   </component>
 </application>
