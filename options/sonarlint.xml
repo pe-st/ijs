@@ -1,14 +1,22 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S1135">
+          <value>
+            <Rule active="false" key="java:S1135" />
+          </value>
+        </entry>
+        <entry key="java:S1301">
+          <value>
+            <Rule active="false" key="java:S1301" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="sonarQubeServers">
       <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://mtzhlfoto05.sn.six-group.net:9000" />
-          <token>df93dfcbdf99df92df9ddf98dfcfdfc9df98df9adfc9df9bdfc8df9edf99df9bdf9cdfcfdfc8df9adfcbdf9adf9ddf9ddf98dfc9dfc9df93df9ddf9fdfcedfcbdfcedf92df98dfcedfcbdf93df9fdfcf</token>
-          <option name="name" value="foto05" />
-          <organizationKey>default-organization</organizationKey>
-        </SonarQubeServer>
         <SonarQubeServer>
           <option name="hostUrl" value="https://kazan.myworldline.com/sonarqube" />
           <token>df98dfcedfcbdf9fdf9bdf9edf9adf92df92df9ddfcbdf9fdfccdf9fdfc9df9bdf9bdf92df98df99df92df9bdfcbdfc9dfc8df9adfc8dfccdfcbdfccdf93dfc9df98dfc9df92df9ddfcfdf99dfcfdf9a</token>
@@ -17,8 +25,8 @@
       </list>
     </option>
     <rules>
-      <Rule active="false" key="java:S1135" />
       <Rule active="false" key="java:S1301" />
+      <Rule active="false" key="java:S1135" />
     </rules>
   </component>
 </application>

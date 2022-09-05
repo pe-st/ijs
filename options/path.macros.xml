@@ -1,8 +1,8 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="C:/local/P/maven3_repo" />
-    <macro name="REPO_CHECKOUT_RELATIVE_FROM_WILDFLY" value="../../../../../src/bitbucket/ao" />
-    <macro name="REPO_CHECKOUT_ROOT" value="C:/local/src/bitbucket/ao" />
+    <macro name="REPO_CHECKOUT_RELATIVE_FROM_WILDFLY" value="../../../../../src/kazan/aos" />
+    <macro name="REPO_CHECKOUT_ROOT" value="C:/local/src/kazan/aos" />
     <macro name="WILDFLY_25_HOME" value="C:/local/P/java/wildfly-25.0.1.Final" />
     <macro name="WILDFLY_25_LOGS" value="$WILDFLY_25_HOME$/standalone/log" />
     <macro name="WILDFLY_26_HOME" value="C:/local/P/java/wildfly-26.1.1.Final" />
