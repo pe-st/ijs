@@ -55,6 +55,9 @@
             <Goal>
               <option name="commandLine" value="org.owasp:dependency-check-maven:aggregate" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="help:active-profiles" />
+            </Goal>
           </list>
         </option>
       </Goals>

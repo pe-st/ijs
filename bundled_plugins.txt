@@ -42,6 +42,7 @@ org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.idea.eclipse|Other Tools
 org.jetbrains.debugger.streams|Other Tools
 com.jetbrains.packagesearch.intellij-plugin|null
+com.jetbrains.codeWithMe|null
 com.intellij.tracing.ide|null
 com.intellij.microservices.jvm|JVM Frameworks
 com.intellij.micronaut|JVM Frameworks
@@ -148,7 +149,6 @@ org.jetbrains.idea.gradle.dsl|null
 org.jetbrains.plugins.gradle.dependency.updater|null
 org.jetbrains.security.package-checker|null
 org.jetbrains.android|Android
-com.jetbrains.codeWithMe|null
 com.android.tools.design|null
 cucumber-groovy|Test Tools
 com.intellij.spring.mvc|JVM Frameworks
