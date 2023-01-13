@@ -13,6 +13,7 @@
     <option name="MAX_LOOKUP_WIDTH2" value="1042" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
-    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
   </component>
 </application>
