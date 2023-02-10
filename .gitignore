@@ -33,10 +33,10 @@ options/dslActivationStatus.xml
 options/eclipseCodeFormatter.xml
 options/feature.usage.statistics.xml
 options/features.usage.statistics.xml
-options/ide-features-trainer.xml
 options/FeatureSuggester.xml
 options/find.recents.xml
 options/find.xml
+options/ide-features-trainer.xml
 options/jdk.table.xml
 options/markdown_navigator.local.xml
 options/options.xml
@@ -58,7 +58,9 @@ options/web-browsers.xml
 options/web-types-npm-loader.xml
 options/window.manager.xml
 options/window.state.xml
+options/windows/maven.wrapper.mapping.xml
 options/wsl.distributions.xml
+options/wslRecentConnections.xml
 pdb.pwd
 plugins/
 port
