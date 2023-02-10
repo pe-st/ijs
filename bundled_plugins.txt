@@ -112,8 +112,6 @@ com.intellij.java|null
 
 com.intellij.jsp|Template Languages
 
-com.intellij.laf.win10|Themes
-
 com.intellij.micronaut|JVM Frameworks
 
 com.intellij.microservices.jvm|JVM Frameworks

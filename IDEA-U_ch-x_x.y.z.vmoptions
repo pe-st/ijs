@@ -1,5 +1,5 @@
 -Dide.no.platform.update=true
--Dtoolbox.notification.token=hst2GYVz5V2_Aj3nvwQjIkxIzBSb_G6vJGBjYXjvN9E=
--Dtoolbox.notification.portFile=C:\Users\a742038\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\222.4345.14.vmoptions.port
--Didea.plugins.path=C:\\Users\\a742038\\AppData\\Local\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\222.4345.14.plugins
--Xmx2048m
+-Dtoolbox.notification.token=lqMa_Su_p7soGlIhmKGaxnFsbWX_Pnc3uF0HHX3InzQ=
+-Dtoolbox.notification.portFile=C:\Users\a742038\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\223.8617.56.vmoptions.port
+-Didea.plugins.path=C:\\Users\\a742038\\AppData\\Local\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\223.8617.56.plugins
+-Xmx3072m
