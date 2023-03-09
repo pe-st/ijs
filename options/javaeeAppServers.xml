@@ -1,0 +1,21 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="JBoss/WildFly 27.0.1.Final">
+      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <option name="INTEGRATION_ID" value="JBossIntegration" />
+      <DATA>
+        <option name="HOME" value="$USER_HOME$/Documents/wildfly-27.0.1.Final" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="JBoss/WildFly 27.0.1.Final">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/wildfly-27.0.1.Final/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/wildfly-27.0.1.Final/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>
