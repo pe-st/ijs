@@ -4,6 +4,7 @@
 *.kdbx
 *.license
 *.pwd
+.lock
 consoles/.history/
 consoles/db/
 disabled_plugins.txt
@@ -47,6 +48,8 @@ options/remote-servers.xml
 options/runner.layout.xml
 options/security.xml
 options/shownTips.xml
+options/sshRecentConnections.v2.xml
+options/sshRecentConnectionsHost.xml
 options/statistics.*.xml
 options/stubIndex.xml
 options/trusted-paths.xml
