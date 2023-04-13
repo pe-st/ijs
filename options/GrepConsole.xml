@@ -1,9 +1,31 @@
 <application>
   <component name="GrepConsole">
+    <option name="grepHistory">
+      <list>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+      </list>
+    </option>
     <option name="profiles">
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
+          <option name="foldingGroups">
+            <list>
+              <GrepExpressionGroup />
+              <GrepExpressionGroup>
+                <option name="name" value=".*c\.s\.a\.t\.TestContainerHelper.*" />
+              </GrepExpressionGroup>
+            </list>
+          </option>
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -108,7 +130,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
@@ -249,6 +270,28 @@
                 </option>
                 <option name="name" value="jboss" />
               </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*c\.s\.a\.t\.TestContainerHelper.*" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-986896" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="testcontainers" />
+              </GrepExpressionGroup>
             </list>
           </option>
           <option name="id" value="1468511536113" />
@@ -257,6 +300,6 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </application>
