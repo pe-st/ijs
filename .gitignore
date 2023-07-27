@@ -21,6 +21,8 @@ idea*.key
 ijs/
 jdbc-drivers/
 migration/
+options/*FeedbackService.xml
+options/*InfoService.xml
 options/actionSummary.xml
 options/applicationLibraries.xml
 options/cachedDictionary.xml

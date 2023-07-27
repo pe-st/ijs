@@ -7,6 +7,10 @@
         <option value="com.jetbrains.jax.ws" />
         <option value="com.intellij.javaee.ejb" />
         <option value="com.intellij.guice" />
+        <option value="com.intellij.jboss.arquillian" />
+        <option value="com.intellij.jsf" />
+        <option value="com.intellij.javaee.batch" />
+        <option value="com.intellij.jdbi" />
       </list>
     </option>
   </component>

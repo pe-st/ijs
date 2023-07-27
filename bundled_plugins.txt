@@ -48,11 +48,11 @@ XPathView|HTML and XML
 
 com.android.tools.design|Android
 
-com.android.tools.idea.smali|Android
-
 com.deadlock.scsyntax|null
 
 com.intellij.CloudConfig|IDE Settings
+
+com.intellij.LineProfiler|null
 
 com.intellij.analysis.pwa.java|null
 
@@ -109,6 +109,8 @@ com.intellij.javaee.web|JVM Frameworks
 com.intellij.javaee|JVM Frameworks
 
 com.intellij.java|null
+
+com.intellij.jsonpath|JavaScript Frameworks and Tools
 
 com.intellij.jsp|Template Languages
 
@@ -184,19 +186,9 @@ com.jetbrains.gateway.terminal|null
 
 com.jetbrains.gateway|Remote Development
 
-com.jetbrains.packagesearch.intellij-plugin|null
-
 com.jetbrains.performancePlugin.async|Other Tools
 
 com.jetbrains.performancePlugin.dynamicPlugins|null
-
-com.jetbrains.performancePlugin.java|null
-
-com.jetbrains.performancePlugin.kotlin|null
-
-com.jetbrains.performancePlugin.workspaceModel|null
-
-com.jetbrains.performancePlugin.yourkit|Other Tools
 
 com.jetbrains.performancePlugin|Other Tools
 
@@ -204,13 +196,15 @@ com.jetbrains.plugins.webDeployment|Deployment
 
 com.jetbrains.projector.libs|null
 
-com.jetbrains.restClient|Other Tools
+com.jetbrains.restClient|Microservices
 
 com.jetbrains.restWebServices|JVM Frameworks
 
 com.jetbrains.sh|Languages
 
 com.jetbrains.space|null
+
+com.jetbrains.warmup.performanceTesting|null
 
 cucumber-groovy|Test Tools
 
@@ -223,6 +217,8 @@ hg4idea|Version Controls
 idea.plugin.protoeditor|Microservices
 
 intellij.caches.shared|null
+
+intellij.charts|null
 
 intellij.grid.core.impl|null
 
@@ -282,7 +278,11 @@ org.jetbrains.java.decompiler|Other Tools
 
 org.jetbrains.kotlin|Languages
 
+org.jetbrains.plugins.docker.gateway|Remote Development
+
 org.jetbrains.plugins.github|Version Controls
+
+org.jetbrains.plugins.gitlab|Version Controls
 
 org.jetbrains.plugins.gradle.analysis|null
 

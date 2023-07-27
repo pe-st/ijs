@@ -11,6 +11,7 @@
         <option value="LanguageTool.EN.EG_NO_COMMA" />
         <option value="LanguageTool.EN.A_UNCOUNTABLE" />
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.UNLIKELY_OPENING_PUNCTUATION" />
       </set>
     </option>
   </component>
