@@ -2,3 +2,5 @@ ide.experimental.ui
 true
 ide.experimental.ui.inter.font
 false
+idea.plugins.compatible.build
+
