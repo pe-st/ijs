@@ -4,6 +4,11 @@
       <list>
         <option value="com.intellij.guice" />
         <option value="com.intellij.bigdatatools" />
+        <option value="com.intellij.kubernetes" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.javaee.ejb" />
+        <option value="com.intellij.bigdatatools.rfs" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
       </list>
     </option>
   </component>

@@ -1,9 +1,11 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="54" />
-      </DonationNagger>
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeAction" />
+        <option name="description" value="Encode URL (by java.net.URLEncoder)" />
+        <option name="textWithMnemonic" value="Encode URL" />
+      </UniversalActionModel>
     </option>
     <option name="version" value="1" />
   </component>

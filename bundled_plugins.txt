@@ -276,7 +276,7 @@ org.jetbrains.idea.reposearch|null
 
 org.jetbrains.java.decompiler|Other Tools
 
-org.jetbrains.kotlin|Languages
+org.jetbrains.plugins.docker.gateway|Remote Development
 
 org.jetbrains.plugins.github|Version Controls
 
