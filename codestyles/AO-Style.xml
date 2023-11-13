@@ -18,8 +18,13 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="9999" />
+  <option name="RIGHT_MARGIN" value="1000" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="globPattern" pattern="*.properties, *.sql, *.md, *.adoc" />
+    </list>
+  </option>
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />

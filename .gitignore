@@ -23,9 +23,11 @@ jdbc-drivers/
 migration/
 options/*FeedbackService.xml
 options/*InfoService.xml
+options/*local.xml
 options/actionSummary.xml
 options/applicationLibraries.xml
 options/cachedDictionary.xml
+options/ChartsStyleConfig.xml
 options/completion*.xml
 options/dataSources*.xml
 options/dataSources/*.xml
@@ -42,6 +44,8 @@ options/find.xml
 options/gitlab.xml
 options/ide-features-trainer.xml
 options/jdk.table.xml
+options/kotlin-wizard-data.xml
+options/mac/maven.wrapper.mapping.xml
 options/markdown_navigator.local.xml
 options/options.xml
 options/other.xml
