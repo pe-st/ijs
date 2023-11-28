@@ -114,6 +114,8 @@ com.intellij.microservices.jvm|JVM Frameworks
 
 com.intellij.microservices.ui|Microservices
 
+com.intellij.ml.llm|AI-Powered
+
 com.intellij.persistence|JVM Frameworks
 
 com.intellij.platform.images|null
