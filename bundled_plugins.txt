@@ -54,8 +54,6 @@ com.intellij.beanValidation|JVM Frameworks
 
 com.intellij.cdi|JVM Frameworks
 
-com.intellij.completion.ml.ranking.models|AI-Powered
-
 com.intellij.completion.ml.ranking|AI-Powered
 
 com.intellij.configurationScript|null
@@ -114,8 +112,6 @@ com.intellij.microservices.jvm|JVM Frameworks
 
 com.intellij.microservices.ui|Microservices
 
-com.intellij.ml.llm|AI-Powered
-
 com.intellij.persistence|JVM Frameworks
 
 com.intellij.platform.images|null
@@ -155,8 +151,6 @@ com.intellij.spring.mvc|JVM Frameworks
 com.intellij.spring.security|JVM Frameworks
 
 com.intellij.spring|JVM Frameworks
-
-com.intellij.stats.completion|Other Tools
 
 com.intellij.swagger|Microservices
 
@@ -271,8 +265,6 @@ org.jetbrains.idea.reposearch|null
 org.jetbrains.java.decompiler|Other Tools
 
 org.jetbrains.kotlin|Languages
-
-org.jetbrains.plugins.docker.gateway|Remote Development
 
 org.jetbrains.plugins.github|Version Controls
 
