@@ -1,18 +1,12 @@
 AngularJS|JavaScript Frameworks and Tools
 
-AntSupport|Build Tools
-
 ByteCodeViewer|Other Tools
 
 Coverage|Code Coverage
 
-DevKit|Plugin Development
-
 Docker|Deployment
 
 Git4Idea|Version Controls
-
-GlassFish|Deployment
 
 HtmlTools|HTML and XML
 
@@ -46,11 +40,7 @@ Tomcat|Deployment
 
 XPathView|HTML and XML
 
-com.android.tools.design|Android
-
-com.deadlock.scsyntax|null
-
-com.intellij.CloudConfig|IDE Settings
+com.deadlock.scsyntax|JavaScript Frameworks and Tools
 
 com.intellij.LineProfiler|null
 
@@ -64,7 +54,7 @@ com.intellij.beanValidation|JVM Frameworks
 
 com.intellij.cdi|JVM Frameworks
 
-com.intellij.completion.ml.ranking|Other Tools
+com.intellij.completion.ml.ranking|AI-Powered
 
 com.intellij.configurationScript|null
 
@@ -114,6 +104,8 @@ com.intellij.jsonpath|JavaScript Frameworks and Tools
 
 com.intellij.jsp|Template Languages
 
+com.intellij.kubernetes|Deployment
+
 com.intellij.micronaut|JVM Frameworks
 
 com.intellij.microservices.jvm|JVM Frameworks
@@ -138,9 +130,7 @@ com.intellij.quarkus|JVM Frameworks
 
 com.intellij.reactivestreams|JVM Frameworks
 
-com.intellij.searcheverywhere.ml.microservices|null
-
-com.intellij.searcheverywhere.ml|null
+com.intellij.searcheverywhere.ml|AI-Powered
 
 com.intellij.settingsSync|IDE Settings
 
@@ -174,6 +164,8 @@ com.intellij.thymeleaf|Template Languages
 
 com.intellij.tracing.ide|null
 
+com.intellij.turboComplete|AI-Powered
+
 com.intellij.uiDesigner|Swing
 
 com.intellij.velocity|Template Languages
@@ -193,8 +185,6 @@ com.jetbrains.performancePlugin.dynamicPlugins|null
 com.jetbrains.performancePlugin|Other Tools
 
 com.jetbrains.plugins.webDeployment|Deployment
-
-com.jetbrains.projector.libs|null
 
 com.jetbrains.restClient|Microservices
 
@@ -232,9 +222,9 @@ intellij.ktor|Kotlin Frameworks
 
 intellij.nextjs|JavaScript Frameworks and Tools
 
-intellij.prettierJS|JavaScript Frameworks and Tools
+intellij.platform.ijent.impl|null
 
-intellij.recommenders|Other Tools
+intellij.prettierJS|JavaScript Frameworks and Tools
 
 intellij.vitejs|JavaScript Frameworks and Tools
 
@@ -253,8 +243,6 @@ org.intellij.plugins.markdown|Languages
 org.intellij.plugins.postcss|Style Sheets
 
 org.intellij.qodana|null
-
-org.jetbrains.android|Android
 
 org.jetbrains.debugger.streams|Other Tools
 
@@ -275,6 +263,8 @@ org.jetbrains.idea.maven|Build Tools
 org.jetbrains.idea.reposearch|null
 
 org.jetbrains.java.decompiler|Other Tools
+
+org.jetbrains.kotlin|Languages
 
 org.jetbrains.plugins.docker.gateway|Remote Development
 

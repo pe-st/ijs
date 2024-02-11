@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.sonar;.sonar_lock;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.hg;.mypy_cache;.project;.pytest_cache;.ruff_cache;.settings;.sonar;.sonar_lock;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
