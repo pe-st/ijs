@@ -112,6 +112,8 @@ com.intellij.microservices.jvm|JVM Frameworks
 
 com.intellij.microservices.ui|Microservices
 
+com.intellij.ml.llm|AI-Powered
+
 com.intellij.persistence|JVM Frameworks
 
 com.intellij.platform.images|null
@@ -171,6 +173,8 @@ com.intellij.uiDesigner|Swing
 com.intellij.velocity|Template Languages
 
 com.intellij|null
+
+com.jetbrains.ae.database|null
 
 com.jetbrains.codeWithMe|null
 
