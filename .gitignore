@@ -1,6 +1,7 @@
 # Git bundles
 *.bundle
 
+*.db
 *.kdbx
 *.license
 *.pwd
@@ -13,6 +14,7 @@ eval
 event-log-metadata/
 extensions/com.intellij.database/data/aggregators/
 extensions/com.intellij.database/data/extractors/
+extensions/com.intellij.database/data/loaders/
 extensions/com.intellij.database/schema/
 extensions/com.intellij.database/schema.layouts/
 extensions/com.intellij.javaee/orm.generators/
@@ -23,6 +25,7 @@ jdbc-drivers/
 migration/
 options/*FeedbackService.xml
 options/*InfoService.xml
+options/*SurveyService.xml
 options/*local.xml
 options/actionSummary.xml
 options/applicationLibraries.xml

@@ -54,15 +54,13 @@ com.intellij.beanValidation|JVM Frameworks
 
 com.intellij.cdi|JVM Frameworks
 
-com.intellij.completion.ml.ranking|AI-Powered
+com.intellij.completion.ml.ranking|Local AI/ML Tools
 
 com.intellij.configurationScript|null
 
 com.intellij.copyright|Other Tools
 
 com.intellij.css|Style Sheets
-
-com.intellij.cvp|Other Tools
 
 com.intellij.database|Database
 
@@ -71,6 +69,8 @@ com.intellij.dev|null
 com.intellij.diagram|Other Tools
 
 com.intellij.dsm|Other Tools
+
+com.intellij.flyway|Database
 
 com.intellij.freemarker|Template Languages
 
@@ -94,6 +94,8 @@ com.intellij.javaee.gradle|JVM Frameworks
 
 com.intellij.javaee.jpa|JVM Frameworks
 
+com.intellij.javaee.reverseEngineering|Database
+
 com.intellij.javaee.web|JVM Frameworks
 
 com.intellij.javaee|JVM Frameworks
@@ -106,15 +108,21 @@ com.intellij.jsp|Template Languages
 
 com.intellij.kubernetes|Deployment
 
+com.intellij.liquibase|Database
+
+com.intellij.llmInstaller|Other Tools
+
 com.intellij.micronaut|JVM Frameworks
 
 com.intellij.microservices.jvm|JVM Frameworks
 
 com.intellij.microservices.ui|Microservices
 
-com.intellij.ml.llm|AI-Powered
+com.intellij.openRewrite|JVM Frameworks
 
 com.intellij.persistence|JVM Frameworks
+
+com.intellij.platform.ide.provisioner|null
 
 com.intellij.platform.images|null
 
@@ -132,7 +140,9 @@ com.intellij.quarkus|JVM Frameworks
 
 com.intellij.reactivestreams|JVM Frameworks
 
-com.intellij.searcheverywhere.ml|AI-Powered
+com.intellij.react|JavaScript Frameworks and Tools
+
+com.intellij.searcheverywhere.ml|Local AI/ML Tools
 
 com.intellij.settingsSync|IDE Settings
 
@@ -154,6 +164,8 @@ com.intellij.spring.security|JVM Frameworks
 
 com.intellij.spring|JVM Frameworks
 
+com.intellij.stylelint|JavaScript Frameworks and Tools
+
 com.intellij.swagger|Microservices
 
 com.intellij.tailwindcss|Style Sheets
@@ -166,15 +178,13 @@ com.intellij.thymeleaf|Template Languages
 
 com.intellij.tracing.ide|null
 
-com.intellij.turboComplete|AI-Powered
+com.intellij.turboComplete|Local AI/ML Tools
 
 com.intellij.uiDesigner|Swing
 
 com.intellij.velocity|Template Languages
 
 com.intellij|null
-
-com.jetbrains.ae.database|null
 
 com.jetbrains.codeWithMe|null
 
@@ -196,15 +206,7 @@ com.jetbrains.restWebServices|JVM Frameworks
 
 com.jetbrains.sh|Languages
 
-com.jetbrains.space|null
-
 com.jetbrains.warmup.performanceTesting|null
-
-cucumber-groovy|Test Tools
-
-cucumber-java|Test Tools
-
-gherkin|Languages
 
 hg4idea|Version Controls
 
@@ -226,7 +228,7 @@ intellij.ktor|Kotlin Frameworks
 
 intellij.nextjs|JavaScript Frameworks and Tools
 
-intellij.platform.ijent.impl|null
+intellij.platform.ijent.impl|Deployment
 
 intellij.prettierJS|JavaScript Frameworks and Tools
 
@@ -247,6 +249,8 @@ org.intellij.plugins.markdown|Languages
 org.intellij.plugins.postcss|Style Sheets
 
 org.intellij.qodana|null
+
+org.jetbrains.completion.full.line|Local AI/ML Tools
 
 org.jetbrains.debugger.streams|Other Tools
 
