@@ -25,7 +25,7 @@
       <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
       <option name="INTEGRATION_ID" value="JBossIntegration" />
       <DATA>
-        <option name="HOME" value="C:\local\P\java\wildfly-32.0.0.Final" />
+        <option name="HOME" value="C:\local\P\java\wildfly-32.0.1.Final" />
       </DATA>
     </ServerDK>
     <LibraryTable>
@@ -55,8 +55,8 @@
       </library>
       <library name="WildFly 32">
         <CLASSES>
-          <root url="jar://C:/local/P/java/wildfly-32.0.0.Final/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
-          <root url="jar://C:/local/P/java/wildfly-32.0.0.Final/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
+          <root url="jar://$WILDFLY_32_HOME$/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
+          <root url="jar://$WILDFLY_32_HOME$/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

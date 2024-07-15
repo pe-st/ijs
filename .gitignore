@@ -1,11 +1,11 @@
 # Git bundles
 *.bundle
 
+*.db
 *.kdbx
 *.license
 *.pwd
 .lock
-app-internal-state.db
 consoles/.history/
 consoles/db/
 disabled_plugins.txt
@@ -25,6 +25,7 @@ jdbc-drivers/
 migration/
 options/*FeedbackService.xml
 options/*InfoService.xml
+options/*SurveyService.xml
 options/*local.xml
 options/actionSummary.xml
 options/applicationLibraries.xml
@@ -46,6 +47,7 @@ options/find.xml
 options/gitlab.xml
 options/ide-features-trainer.xml
 options/jdk.table.xml
+options/k2-feedback.xml
 options/kotlin-wizard-data.xml
 options/mac/maven.wrapper.mapping.xml
 options/markdown_navigator.local.xml
@@ -68,6 +70,7 @@ options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/web-types-npm-loader.xml
+options/window.layouts.xml
 options/window.manager.xml
 options/window.state.xml
 options/windows/maven.wrapper.mapping.xml
