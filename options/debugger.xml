@@ -92,7 +92,7 @@
       <option name="SHOW_HEX_VALUE" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="byte[]" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="byte[]" />
