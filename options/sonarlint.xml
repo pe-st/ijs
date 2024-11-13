@@ -1,6 +1,7 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="focusOnNewCode" value="true" />
     <option name="promotionDisabled" value="true" />
     <option name="rulesByKey">
       <map>
