@@ -94,6 +94,8 @@ com.intellij.javaee.extensions|JVM Frameworks
 
 com.intellij.javaee.gradle|JVM Frameworks
 
+com.intellij.javaee.jakarta.data|JVM Frameworks
+
 com.intellij.javaee.jpa|JVM Frameworks
 
 com.intellij.javaee.reverseEngineering|Database
@@ -108,7 +110,7 @@ com.intellij.ja|IDE Localization
 
 com.intellij.jpa.jpb.model|JVM Frameworks
 
-com.intellij.jsonpath|JavaScript Frameworks and Tools
+com.intellij.jsonpath|Languages
 
 com.intellij.jsp|Template Languages
 
@@ -129,6 +131,8 @@ com.intellij.microservices.jvm|JVM Frameworks
 com.intellij.microservices.ui|Microservices
 
 com.intellij.ml.inline.completion|null
+
+com.intellij.modules.json|Languages
 
 com.intellij.openRewrite|JVM Frameworks
 
@@ -192,8 +196,6 @@ com.intellij.tracing.ide|null
 
 com.intellij.turboComplete|Local AI/ML Tools
 
-com.intellij.uiDesigner|Swing
-
 com.intellij.velocity|Template Languages
 
 com.intellij.zh|IDE Localization
@@ -217,6 +219,8 @@ com.jetbrains.restClient|Microservices
 com.jetbrains.restWebServices|JVM Frameworks
 
 com.jetbrains.sh|Languages
+
+com.jetbrains.station|null
 
 hg4idea|Version Controls
 
