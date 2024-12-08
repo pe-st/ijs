@@ -60,6 +60,8 @@ com.intellij.configurationScript|null
 
 com.intellij.copyright|Other Tools
 
+com.intellij.cron|Other Tools
+
 com.intellij.css|Style Sheets
 
 com.intellij.database|Database
@@ -92,6 +94,8 @@ com.intellij.javaee.extensions|JVM Frameworks
 
 com.intellij.javaee.gradle|JVM Frameworks
 
+com.intellij.javaee.jakarta.data|JVM Frameworks
+
 com.intellij.javaee.jpa|JVM Frameworks
 
 com.intellij.javaee.reverseEngineering|Database
@@ -100,11 +104,17 @@ com.intellij.javaee.web|JVM Frameworks
 
 com.intellij.javaee|JVM Frameworks
 
-com.intellij.java|null
+com.intellij.java|Languages
 
-com.intellij.jsonpath|JavaScript Frameworks and Tools
+com.intellij.ja|IDE Localization
+
+com.intellij.jpa.jpb.model|JVM Frameworks
+
+com.intellij.jsonpath|Languages
 
 com.intellij.jsp|Template Languages
+
+com.intellij.ko|IDE Localization
 
 com.intellij.kubernetes|Deployment
 
@@ -112,11 +122,17 @@ com.intellij.liquibase|Database
 
 com.intellij.llmInstaller|Other Tools
 
+com.intellij.marketplace.ml|Local AI/ML Tools
+
 com.intellij.micronaut|JVM Frameworks
 
 com.intellij.microservices.jvm|JVM Frameworks
 
 com.intellij.microservices.ui|Microservices
+
+com.intellij.ml.inline.completion|null
+
+com.intellij.modules.json|Languages
 
 com.intellij.openRewrite|JVM Frameworks
 
@@ -180,9 +196,9 @@ com.intellij.tracing.ide|null
 
 com.intellij.turboComplete|Local AI/ML Tools
 
-com.intellij.uiDesigner|Swing
-
 com.intellij.velocity|Template Languages
+
+com.intellij.zh|IDE Localization
 
 com.intellij|null
 
@@ -194,8 +210,6 @@ com.jetbrains.gateway|Remote Development
 
 com.jetbrains.performancePlugin.async|Other Tools
 
-com.jetbrains.performancePlugin.dynamicPlugins|null
-
 com.jetbrains.performancePlugin|Other Tools
 
 com.jetbrains.plugins.webDeployment|Deployment
@@ -206,7 +220,7 @@ com.jetbrains.restWebServices|JVM Frameworks
 
 com.jetbrains.sh|Languages
 
-com.jetbrains.warmup.performanceTesting|null
+com.jetbrains.station|null
 
 hg4idea|Version Controls
 
@@ -275,10 +289,6 @@ org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.kotlin|Languages
 
 org.jetbrains.plugins.docker.gateway|Remote Development
-
-org.jetbrains.plugins.github|Version Controls
-
-org.jetbrains.plugins.gitlab|Version Controls
 
 org.jetbrains.plugins.gradle.analysis|null
 
