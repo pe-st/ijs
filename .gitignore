@@ -28,6 +28,8 @@ options/*InfoService.xml
 options/*SurveyService.xml
 options/*local.xml
 options/actionSummary.xml
+options/aeIdeId.xml
+options/AINaturalLanguagePromotionState.xml
 options/applicationLibraries.xml
 options/cachedDictionary.xml
 options/ChartsStyleConfig.xml
@@ -68,6 +70,7 @@ options/sshRecentConnections.v2.xml
 options/sshRecentConnectionsHost.xml
 options/statistics.*.xml
 options/stubIndex.xml
+options/textmate.xml
 options/trusted-paths.xml
 options/updates.xml
 options/usage.statistics.xml

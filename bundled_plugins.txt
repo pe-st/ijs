@@ -40,6 +40,8 @@ Tomcat|Deployment
 
 XPathView|HTML and XML
 
+com.android.tools.gradle.dcl|null
+
 com.deadlock.scsyntax|JavaScript Frameworks and Tools
 
 com.intellij.LineProfiler|null
@@ -289,6 +291,10 @@ org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.kotlin|Languages
 
 org.jetbrains.plugins.docker.gateway|Remote Development
+
+org.jetbrains.plugins.github|Version Controls
+
+org.jetbrains.plugins.gitlab|Version Controls
 
 org.jetbrains.plugins.gradle.analysis|null
 
