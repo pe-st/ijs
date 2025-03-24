@@ -40,6 +40,8 @@ Tomcat|Deployment
 
 XPathView|HTML and XML
 
+com.android.tools.gradle.dcl|null
+
 com.deadlock.scsyntax|JavaScript Frameworks and Tools
 
 com.intellij.LineProfiler|null
@@ -119,8 +121,6 @@ com.intellij.ko|IDE Localization
 com.intellij.kubernetes|Deployment
 
 com.intellij.liquibase|Database
-
-com.intellij.llmInstaller|Other Tools
 
 com.intellij.marketplace.ml|Local AI/ML Tools
 
