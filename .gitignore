@@ -50,6 +50,7 @@ options/find.xml
 options/full.line.xml
 options/gitlab.xml
 options/ide-features-trainer.xml
+options/IntelliLang.xml
 options/jdk.table.xml
 options/k2-feedback.xml
 options/kotlin-wizard-data.xml
