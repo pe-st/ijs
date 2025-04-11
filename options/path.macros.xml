@@ -11,5 +11,7 @@
     <macro name="WILDFLY_33_LOGS" value="$WILDFLY_33_HOME$/standalone/log" />
     <macro name="WILDFLY_34_HOME" value="C:/local/P/java/wildfly-34.0.1.Final" />
     <macro name="WILDFLY_34_LOGS" value="$WILDFLY_34_HOME$/standalone/log" />
+    <macro name="WILDFLY_35_HOME" value="C:/local/P/java/wildfly-35.0.1.Final" />
+    <macro name="WILDFLY_35_LOGS" value="$WILDFLY_35_HOME$/standalone/log" />
   </component>
 </application>
