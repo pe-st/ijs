@@ -1,5 +1,5 @@
 -Djava.net.preferIPv4Stack=true
 -Dide.managed.by.toolbox=/Applications/JetBrains Toolbox.app/Contents/MacOS/jetbrains-toolbox
--Dtoolbox.notification.token=d8ebc108-f261-4210-9e0d-2085eaab153d
--Dtoolbox.notification.portFile=/Users/pesche/Library/Caches/JetBrains/Toolbox/ports/536114172.port
+-Dtoolbox.notification.token=339059b7-7b68-41ec-8b18-cfc06d4b51dd
+-Dtoolbox.notification.portFile=/Users/pesche/Library/Caches/JetBrains/Toolbox/ports/7c5166e4-e598-43ca-8983-0c7f6da69a5c.port
 -Xmx2048m

@@ -46,10 +46,6 @@ com.deadlock.scsyntax|JavaScript Frameworks and Tools
 
 com.intellij.LineProfiler|null
 
-com.intellij.analysis.pwa.java|null
-
-com.intellij.analysis.pwa|null
-
 com.intellij.aop|JVM Frameworks
 
 com.intellij.beanValidation|JVM Frameworks
@@ -57,6 +53,8 @@ com.intellij.beanValidation|JVM Frameworks
 com.intellij.cdi|JVM Frameworks
 
 com.intellij.completion.ml.ranking|Local AI/ML Tools
+
+com.intellij.compose|Kotlin Frameworks
 
 com.intellij.configurationScript|null
 
@@ -130,15 +128,13 @@ com.intellij.microservices.jvm|JVM Frameworks
 
 com.intellij.microservices.ui|Microservices
 
-com.intellij.ml.inline.completion|null
-
 com.intellij.modules.json|Languages
+
+com.intellij.notebooks.core|null
 
 com.intellij.openRewrite|JVM Frameworks
 
 com.intellij.persistence|JVM Frameworks
-
-com.intellij.platform.ide.provisioner|null
 
 com.intellij.platform.images|null
 
@@ -192,8 +188,6 @@ com.intellij.tasks|Other Tools
 
 com.intellij.thymeleaf|Template Languages
 
-com.intellij.tracing.ide|null
-
 com.intellij.turboComplete|Local AI/ML Tools
 
 com.intellij.velocity|Template Languages
@@ -226,17 +220,17 @@ hg4idea|Version Controls
 
 idea.plugin.protoeditor|Microservices
 
-intellij.caches.shared|null
-
 intellij.charts|null
 
-intellij.grid.core.impl|null
+intellij.git.commit.modal|Version Controls
 
-intellij.grid.impl|null
+intellij.grid.plugin|null
 
 intellij.indexing.shared.core|null
 
 intellij.indexing.shared|null
+
+intellij.jupyter|null
 
 intellij.ktor|Kotlin Frameworks
 
@@ -288,6 +282,8 @@ org.jetbrains.java.decompiler|Other Tools
 
 org.jetbrains.kotlin|Languages
 
+org.jetbrains.platform.debugger.streams|Other Tools
+
 org.jetbrains.plugins.docker.gateway|Remote Development
 
 org.jetbrains.plugins.github|Version Controls
@@ -304,11 +300,13 @@ org.jetbrains.plugins.gradle|null
 
 org.jetbrains.plugins.javaFX|JVM Frameworks
 
+org.jetbrains.plugins.kotlin.jupyter|null
+
 org.jetbrains.plugins.less|Style Sheets
 
 org.jetbrains.plugins.node-remote-interpreter|JavaScript Frameworks and Tools
 
-org.jetbrains.plugins.remote-run|null
+org.jetbrains.plugins.remote-run|Deployment
 
 org.jetbrains.plugins.sass|Style Sheets
 
