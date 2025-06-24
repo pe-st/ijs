@@ -11,6 +11,7 @@
         <option value="com.intellij.jsf" />
         <option value="com.intellij.javaee.batch" />
         <option value="com.intellij.jdbi" />
+        <option value="com.intellij.wiremock" />
       </list>
     </option>
   </component>

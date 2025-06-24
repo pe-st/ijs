@@ -6,7 +6,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="bfffbf" />
+    <option name="CARET_ROW_COLOR" value="BFFFBF" />
   </colors>
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
