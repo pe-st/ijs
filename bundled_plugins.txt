@@ -258,8 +258,6 @@ org.intellij.plugins.postcss|Style Sheets
 
 org.intellij.qodana|null
 
-org.jetbrains.completion.full.line|Local AI/ML Tools
-
 org.jetbrains.debugger.streams|Other Tools
 
 org.jetbrains.idea.eclipse|Other Tools
@@ -283,10 +281,6 @@ org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.kotlin|Languages
 
 org.jetbrains.plugins.docker.gateway|Remote Development
-
-org.jetbrains.plugins.github|Version Controls
-
-org.jetbrains.plugins.gitlab|Version Controls
 
 org.jetbrains.plugins.gradle.analysis|null
 
