@@ -1,4 +1,4 @@
 -Xmx3072m
 -Dide.managed.by.toolbox=C:\Users\a742038\AppData\Local\JetBrains\Toolbox\bin\jetbrains-toolbox.exe
--Dtoolbox.notification.token=a8af01fe-cfad-4f6b-8eec-d9323bd889eb
--Dtoolbox.notification.portFile=C:\Users\a742038\AppData\Local\JetBrains\Toolbox\cache\ports\a420a33b-75d9-476a-867f-1b0edff8a4d2.port
+-Dtoolbox.notification.token=9c93e702-b11d-46d4-83f2-cc2c3bf25417
+-Dtoolbox.notification.portFile=C:\Users\a742038\AppData\Local\JetBrains\Toolbox\cache\ports\96a7c48c-0587-4d8f-a717-407b21da6498.port

@@ -12,6 +12,7 @@
         <option value="com.intellij.javaee.batch" />
         <option value="com.intellij.jdbi" />
         <option value="com.intellij.wiremock" />
+        <option value="com.intellij.spring" />
       </list>
     </option>
   </component>

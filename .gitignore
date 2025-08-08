@@ -33,6 +33,7 @@ options/cachedDictionary.xml
 options/ChartsStyleConfig.xml
 options/completion*.xml
 options/contributorSummary.xml
+options/dailyLocalStatistics.xml
 options/dataSources*.xml
 options/dataSources/*.xml
 options/dataSources/*/storage_v2/
