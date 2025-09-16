@@ -1,6 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*{!.java}" />
+      </list>
+    </option>
     <option name="focusOnNewCode" value="true" />
     <option name="promotionDisabled" value="true" />
     <option name="rulesByKey">
@@ -16,16 +21,6 @@
           </value>
         </entry>
       </map>
-    </option>
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="https://kazan.myworldline.com/sonarqube" />
-          <token>df98dfcedfcbdf9fdf9bdf9edf9adf92df92df9ddfcbdf9fdfccdf9fdfc9df9bdf9bdf92df98df99df92df9bdfcbdfc9dfc8df9adfc8dfccdfcbdfccdf93dfc9df98dfc9df92df9ddfcfdf99dfcfdf9a</token>
-          <option name="name" value="kazan" />
-          <disableNotifications>true</disableNotifications>
-        </SonarQubeServer>
-      </list>
     </option>
     <rules>
       <Rule active="false" key="java:S1301" />

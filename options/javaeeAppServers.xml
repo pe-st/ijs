@@ -1,33 +1,5 @@
 <application>
   <component name="AppserversManager">
-    <ServerDK NAME="WildFly 25">
-      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
-      <option name="INTEGRATION_ID" value="JBossIntegration" />
-      <DATA>
-        <option name="HOME" value="C:\local\P\java\wildfly-25.0.1.Final" />
-      </DATA>
-    </ServerDK>
-    <ServerDK NAME="WildFly 26">
-      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
-      <option name="INTEGRATION_ID" value="JBossIntegration" />
-      <DATA>
-        <option name="HOME" value="C:\local\P\java\wildfly-26.1.1.Final" />
-      </DATA>
-    </ServerDK>
-    <ServerDK NAME="WildFly 30">
-      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
-      <option name="INTEGRATION_ID" value="JBossIntegration" />
-      <DATA>
-        <option name="HOME" value="C:\local\P\java\wildfly-30.0.1.Final" />
-      </DATA>
-    </ServerDK>
-    <ServerDK NAME="WildFly 32">
-      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
-      <option name="INTEGRATION_ID" value="JBossIntegration" />
-      <DATA>
-        <option name="HOME" value="C:\local\P\java\wildfly-32.0.1.Final" />
-      </DATA>
-    </ServerDK>
     <ServerDK NAME="WildFly 33">
       <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
       <option name="INTEGRATION_ID" value="JBossIntegration" />
@@ -56,39 +28,14 @@
         <option name="HOME" value="C:\local\P\java\wildfly-36.0.0.Final" />
       </DATA>
     </ServerDK>
+    <ServerDK NAME="WildFly 37">
+      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <option name="INTEGRATION_ID" value="JBossIntegration" />
+      <DATA>
+        <option name="HOME" value="C:\local\P\java\wildfly-37.0.0.Final" />
+      </DATA>
+    </ServerDK>
     <LibraryTable>
-      <library name="WildFly 25">
-        <CLASSES>
-          <root url="jar://C:/local/P/java/wildfly-25.0.1.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-2.0.0.Final.jar!/" />
-          <root url="jar://C:/local/P/java/wildfly-25.0.1.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-      <library name="WildFly 26">
-        <CLASSES>
-          <root url="jar://C:/local/P/java/wildfly-26.1.1.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-2.0.0.Final.jar!/" />
-          <root url="jar://C:/local/P/java/wildfly-26.1.1.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-      <library name="WildFly 30">
-        <CLASSES>
-          <root url="jar://$WILDFLY_30_HOME$/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.0.jar!/" />
-          <root url="jar://$WILDFLY_30_HOME$/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-      <library name="WildFly 32">
-        <CLASSES>
-          <root url="jar://$WILDFLY_32_HOME$/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
-          <root url="jar://$WILDFLY_32_HOME$/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
       <library name="WildFly 33">
         <CLASSES>
           <root url="jar://$WILDFLY_33_HOME$/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
@@ -115,8 +62,16 @@
       </library>
       <library name="WildFly 36">
         <CLASSES>
-          <root url="jar://C:/local/P/java/wildfly-36.0.0.Final/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
-          <root url="jar://C:/local/P/java/wildfly-36.0.0.Final/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
+          <root url="jar://$WILDFLY_36_HOME$/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
+          <root url="jar://$WILDFLY_36_HOME$/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="WildFly 37">
+        <CLASSES>
+          <root url="jar://C:/local/P/java/wildfly-37.0.0.Final/modules/system/layers/base/jakarta/servlet/jsp/api/main/jakarta.servlet.jsp-api-3.1.1.jar!/" />
+          <root url="jar://C:/local/P/java/wildfly-37.0.0.Final/modules/system/layers/base/jakarta/servlet/api/main/jakarta.servlet-api-6.0.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

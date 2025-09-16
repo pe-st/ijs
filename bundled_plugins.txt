@@ -7,14 +7,11 @@ HtmlTools|HTML and XML
 JBoss|Deployment
 JSIntentionPowerPack|JavaScript Frameworks and Tools
 JUnit|Test Tools
-JavaScriptDebugger|JavaScript Frameworks and Tools
-JavaScript|JavaScript Frameworks and Tools
 Karma|JavaScript Frameworks and Tools
 Lombook Plugin|JVM Frameworks
 NodeJS|JavaScript Frameworks and Tools
 PerforceDirectPlugin|Version Controls
 Refactor-X|HTML and XML
-Subversion|Version Controls
 TestNG-J|Test Tools
 Tomcat|Deployment
 XPathView|HTML and XML
@@ -63,7 +60,6 @@ com.intellij.microservices.jvm|JVM Frameworks
 com.intellij.microservices.ui|Microservices
 com.intellij.modules.json|Languages
 com.intellij.modules.ultimate|null
-com.intellij.notebooks.core|null
 com.intellij.openRewrite|JVM Frameworks
 com.intellij.persistence|JVM Frameworks
 com.intellij.platform.images|null
@@ -71,10 +67,8 @@ com.intellij.plugins.eclipsekeymap|Keymap
 com.intellij.plugins.netbeanskeymap|Keymap
 com.intellij.plugins.visualstudiokeymap|Keymap
 com.intellij.plugins.webcomponents|JavaScript Frameworks and Tools
-com.intellij.properties|Languages
 com.intellij.quarkus|JVM Frameworks
 com.intellij.reactivestreams|JVM Frameworks
-com.intellij.react|JavaScript Frameworks and Tools
 com.intellij.searcheverywhere.ml|Local AI/ML Tools
 com.intellij.settingsSync|IDE Settings
 com.intellij.spring.boot.initializr|JVM Frameworks
@@ -94,7 +88,6 @@ com.intellij.tasks.timeTracking|Other Tools
 com.intellij.tasks|Other Tools
 com.intellij.thymeleaf|Template Languages
 com.intellij.turboComplete|Local AI/ML Tools
-com.intellij.velocity|Template Languages
 com.intellij.zh|IDE Localization
 com.intellij|null
 com.jetbrains.codeWithMe|Remote Development
@@ -113,7 +106,6 @@ intellij.git.commit.modal|Version Controls
 intellij.grid.plugin|null
 intellij.indexing.shared.core|null
 intellij.indexing.shared|null
-intellij.jupyter|null
 intellij.ktor|Kotlin Frameworks
 intellij.nextjs|JavaScript Frameworks and Tools
 intellij.platform.ijent.impl|Remote Development
@@ -147,11 +139,8 @@ org.jetbrains.plugins.remote-run|Remote Development
 org.jetbrains.plugins.sass|Style Sheets
 org.jetbrains.plugins.terminal|Other Tools
 org.jetbrains.plugins.textmate|Languages
-org.jetbrains.plugins.vue|JavaScript Frameworks and Tools
 org.jetbrains.plugins.wsl.remoteSdk|null
 org.jetbrains.plugins.yaml|Languages
-org.jetbrains.security.package-checker|null
-org.toml.lang|Languages
 tanvd.grazi|null
 training|null
 tslint|JavaScript Frameworks and Tools
