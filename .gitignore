@@ -42,6 +42,7 @@ options/dimensions.xml
 options/dslActivation.xml
 options/dslActivationStatus.xml
 options/eclipseCodeFormatter.xml
+options/EventLogAllowedList.xml
 options/feature.usage.statistics.xml
 options/features.usage.statistics.xml
 options/FeatureSuggester.xml
@@ -50,6 +51,7 @@ options/find.xml
 options/full.line.xml
 options/gitlab.xml
 options/ide-features-trainer.xml
+options/inline.factors.completion.xml
 options/IntelliLang.xml
 options/jdk.table.xml
 options/k2-feedback.xml
