@@ -11,6 +11,8 @@
     <entry key="ide.firstStartup" value="false" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="jvm.dfa.analysis.ui.security.analysis.window.was.shown" value="true" source="SYSTEM" />
+    <entry key="enable.connection.configuration.widget" value="false" source="SYSTEM" />
+    <entry key="THIN_CLIENT_EXTERNAL_SYSTEM.system.in.process" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

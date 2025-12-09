@@ -88,6 +88,7 @@ pdb.pwd
 plugins/
 port
 port.lock
+projects/
 proxy_config
 scratches.xml
 scratches/

@@ -3,19 +3,13 @@
     <macro name="MAVEN_REPOSITORY" value="$USER_HOME$/.m2/repository" />
     <macro name="REPO_CHECKOUT_RELATIVE_FROM_WILDFLY" value="../../../../../src/kazan/aos" />
     <macro name="REPO_CHECKOUT_ROOT" value="C:/local/src/kazan/aos" />
-    <macro name="WILDFLY_30_HOME" value="C:/local/P/java/wildfly-30.0.1.Final" />
-    <macro name="WILDFLY_30_LOGS" value="$WILDFLY_30_HOME$/standalone/log" />
-    <macro name="WILDFLY_32_HOME" value="C:/local/P/java/wildfly-32.0.1.Final" />
-    <macro name="WILDFLY_32_LOGS" value="$WILDFLY_32_HOME$/standalone/log" />
-    <macro name="WILDFLY_33_HOME" value="C:/local/P/java/wildfly-33.0.0.Final" />
-    <macro name="WILDFLY_33_LOGS" value="$WILDFLY_33_HOME$/standalone/log" />
-    <macro name="WILDFLY_34_HOME" value="C:/local/P/java/wildfly-34.0.1.Final" />
-    <macro name="WILDFLY_34_LOGS" value="$WILDFLY_34_HOME$/standalone/log" />
     <macro name="WILDFLY_35_HOME" value="C:/local/P/java/wildfly-35.0.1.Final" />
     <macro name="WILDFLY_35_LOGS" value="$WILDFLY_35_HOME$/standalone/log" />
     <macro name="WILDFLY_36_HOME" value="C:/local/P/java/wildfly-36.0.0.Final" />
     <macro name="WILDFLY_36_LOGS" value="$WILDFLY_36_HOME$/standalone/log" />
     <macro name="WILDFLY_37_HOME" value="C:/local/P/java/wildfly-37.0.0.Final" />
     <macro name="WILDFLY_37_LOGS" value="$WILDFLY_37_HOME$/standalone/log" />
+    <macro name="WILDFLY_38_HOME" value="C:/local/P/java/wildfly-38.0.0.Final" />
+    <macro name="WILDFLY_38_LOGS" value="$WILDFLY_38_HOME$/standalone/log" />
   </component>
 </application>
