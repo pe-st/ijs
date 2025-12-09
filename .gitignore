@@ -19,6 +19,7 @@ extensions/com.intellij.database/schema/
 extensions/com.intellij.database/schema.layouts/
 extensions/com.intellij.javaee/orm.generators/
 extensions/com.intellij.javaee.jpa/
+grazie/
 idea*.key
 ijs/
 jdbc-drivers/

@@ -12,6 +12,8 @@
         <option value="LanguageTool.EN.A_UNCOUNTABLE" />
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
         <option value="LanguageTool.EN.UNLIKELY_OPENING_PUNCTUATION" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
       </set>
     </option>
   </component>
