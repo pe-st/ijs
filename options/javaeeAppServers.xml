@@ -39,7 +39,7 @@
       <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
       <option name="INTEGRATION_ID" value="JBossIntegration" />
       <DATA>
-        <option name="HOME" value="c:\local\P\java\wildfly-38.0.0.Final\" />
+        <option name="HOME" value="c:\local\P\java\wildfly-38.0.1.Final\" />
       </DATA>
     </ServerDK>
     <LibraryTable>

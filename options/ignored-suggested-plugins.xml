@@ -13,6 +13,7 @@
         <option value="com.intellij.jdbi" />
         <option value="com.intellij.wiremock" />
         <option value="com.intellij.spring" />
+        <option value="com.intellij.reactivestreams" />
       </list>
     </option>
   </component>
