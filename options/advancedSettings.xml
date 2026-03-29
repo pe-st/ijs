@@ -2,7 +2,9 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="gateway.wsl.open.projects.natively" value="true" />
         <entry key="ide.ui.native.file.chooser" value="true" />
+        <entry key="open.devcontainer.projects.natively" value="true" />
         <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>

@@ -10,6 +10,7 @@
         <option value="com.intellij.bigdatatools.rfs" />
         <option value="com.microsoft.tooling.msservices.intellij.azure" />
         <option value="com.intellij.wiremock" />
+        <option value="com.intellij.reactivestreams" />
       </list>
     </option>
   </component>
