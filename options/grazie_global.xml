@@ -10,7 +10,9 @@
     <option name="userDisabledRules">
       <set>
         <option value="LanguageTool.EN.WHITESPACE_RULE" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
         <option value="LanguageTool.DE.FALSCHES_ANFUEHRUNGSZEICHEN" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
         <option value="LanguageTool.DE.AUSLASSUNGSPUNKTE_LEERZEICHEN" />
       </set>
     </option>
