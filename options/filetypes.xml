@@ -22,6 +22,9 @@
       <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern=".springBeans" approved="true" type="Eclipse" />
+      <removed_mapping pattern="spring.handlers" approved="true" type="Properties" />
+      <removed_mapping pattern="spring.schemas" approved="true" type="Properties" />
     </extensionMap>
   </component>
 </application>
