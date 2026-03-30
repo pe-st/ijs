@@ -1,7 +1,6 @@
 AngularJS|JavaScript Frameworks and Tools
 ByteCodeViewer|JVM Tools
 Coverage|JVM Tools
-Docker|Deployment
 Git4Idea|Version Controls
 HtmlTools|HTML and XML
 JBoss|Deployment
@@ -12,7 +11,6 @@ JavaScript|JavaScript Frameworks and Tools
 Karma|JavaScript Frameworks and Tools
 Lombook Plugin|JVM Frameworks
 NodeJS|JavaScript Frameworks and Tools
-PerforceDirectPlugin|Version Controls
 Refactor-X|HTML and XML
 TestNG-J|Test Tools
 Tomcat|Deployment
@@ -63,7 +61,9 @@ com.intellij.microservices.jvm|JVM Frameworks
 com.intellij.microservices.ui|Microservices
 com.intellij.modules.json|Languages
 com.intellij.modules.ultimate|null
+com.intellij.notebooks.core|null
 com.intellij.persistence|JVM Frameworks
+com.intellij.platform.daemon|IDE Settings
 com.intellij.platform.images|null
 com.intellij.plugins.eclipsekeymap|Keymap
 com.intellij.plugins.netbeanskeymap|Keymap
@@ -92,28 +92,27 @@ com.intellij.thymeleaf|Template Languages
 com.intellij.velocity|Template Languages
 com.intellij.zh|IDE Localization
 com.intellij|null
-com.jetbrains.codeWithMe|Remote Development
 com.jetbrains.gateway|Remote Development
 com.jetbrains.performancePlugin.async|Platform Development
 com.jetbrains.performancePlugin|Platform Development
-com.jetbrains.plugins.webDeployment|Deployment
 com.jetbrains.remoteDevServer|Remote Development
+com.jetbrains.remoteDevelopment|Remote Development
+com.jetbrains.restClient|Microservices
 com.jetbrains.restWebServices|JVM Frameworks
 com.jetbrains.sh|Languages
 com.jetbrains.station|Remote Development
-hg4idea|Version Controls
 idea.plugin.protoeditor|Languages
 intellij.git.commit.modal|Version Controls
 intellij.grid.plugin|null
-intellij.indexing.shared.core|null
-intellij.indexing.shared|null
 intellij.ktor|Kotlin Frameworks
 intellij.nextjs|JavaScript Frameworks and Tools
 intellij.platform.ijent.impl|Remote Development
 intellij.prettierJS|JavaScript Frameworks and Tools
 intellij.vitejs|JavaScript Frameworks and Tools
 intellij.webpack|JavaScript Frameworks and Tools
+intellij.webp|null
 org.editorconfig.editorconfigjetbrains|IDE Settings
+org.intellij.groovy.live.templates|null
 org.intellij.groovy|Languages
 org.intellij.plugins.markdown|Languages
 org.intellij.plugins.postcss|Style Sheets
@@ -126,6 +125,7 @@ org.jetbrains.idea.maven|Build Tools
 org.jetbrains.idea.reposearch|Build Tools
 org.jetbrains.java.decompiler|JVM Tools
 org.jetbrains.kotlin|Languages
+org.jetbrains.plugins.docker.gateway|Remote Development
 org.jetbrains.plugins.github|Version Controls
 org.jetbrains.plugins.gitlab|Version Controls
 org.jetbrains.plugins.gradle|Build Tools
@@ -135,6 +135,7 @@ org.jetbrains.plugins.less|Style Sheets
 org.jetbrains.plugins.node-remote-interpreter|JavaScript Frameworks and Tools
 org.jetbrains.plugins.remote-run|Remote Development
 org.jetbrains.plugins.sass|Style Sheets
+org.jetbrains.plugins.terminal|Other Tools
 org.jetbrains.plugins.textmate|Languages
 org.jetbrains.plugins.vue|JavaScript Frameworks and Tools
 org.jetbrains.plugins.wsl.remoteSdk|null
