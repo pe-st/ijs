@@ -13,12 +13,8 @@
     <entry key="jvm.dfa.analysis.ui.security.analysis.window.was.shown" value="true" source="SYSTEM" />
     <entry key="enable.connection.configuration.widget" value="false" source="SYSTEM" />
     <entry key="THIN_CLIENT_EXTERNAL_SYSTEM.system.in.process" value="true" source="SYSTEM" />
-    <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enablePipEnvTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enablePoetryTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enableUvTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enableVenvTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.depthLimitOfTransitiveDependencies" value="3" source="MANAGER" />
+    <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

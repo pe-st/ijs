@@ -1,6 +1,7 @@
 AngularJS|JavaScript Frameworks and Tools
 ByteCodeViewer|JVM Tools
 Coverage|JVM Tools
+Docker|Deployment
 Git4Idea|Version Controls
 HtmlTools|HTML and XML
 JBoss|Deployment
@@ -31,6 +32,7 @@ com.intellij.css|Style Sheets
 com.intellij.database|Database
 com.intellij.debugger.collections.visualizer|JVM Tools
 com.intellij.dev|Platform Development
+com.intellij.dfa.analysis|null
 com.intellij.diagram|Other Tools
 com.intellij.findusages.ml|Local AI/ML Tools
 com.intellij.flyway|Database
@@ -83,6 +85,7 @@ com.intellij.spring.messaging|JVM Frameworks
 com.intellij.spring.modulith|JVM Frameworks
 com.intellij.spring.mvc|JVM Frameworks
 com.intellij.spring.security|JVM Frameworks
+com.intellij.spring|JVM Frameworks
 com.intellij.stylelint|JavaScript Frameworks and Tools
 com.intellij.swagger|Microservices
 com.intellij.tailwindcss|Style Sheets
@@ -95,6 +98,7 @@ com.intellij|null
 com.jetbrains.gateway|Remote Development
 com.jetbrains.performancePlugin.async|Platform Development
 com.jetbrains.performancePlugin|Platform Development
+com.jetbrains.plugins.webDeployment|Deployment
 com.jetbrains.remoteDevServer|Remote Development
 com.jetbrains.remoteDevelopment|Remote Development
 com.jetbrains.restClient|Microservices
@@ -102,8 +106,11 @@ com.jetbrains.restWebServices|JVM Frameworks
 com.jetbrains.sh|Languages
 com.jetbrains.station|Remote Development
 idea.plugin.protoeditor|Languages
+intellij.debuggerMcp|null
 intellij.git.commit.modal|Version Controls
 intellij.grid.plugin|null
+intellij.indexing.shared.core|IDE Settings
+intellij.jupyter|null
 intellij.ktor|Kotlin Frameworks
 intellij.nextjs|JavaScript Frameworks and Tools
 intellij.platform.ijent.impl|Remote Development

@@ -1,7 +1,4 @@
 <application>
-  <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 6
-}]]></component>
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\Windows\system32\cmd.exe" />
   </component>

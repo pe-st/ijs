@@ -38,6 +38,9 @@
               <option name="commandLine" value="clean install" />
             </Goal>
             <Goal>
+              <option name="commandLine" value="versions:set -DnextSnapshot=true" />
+            </Goal>
+            <Goal>
               <option name="commandLine" value="versions:display-dependency-updates versions:display-plugin-updates" />
             </Goal>
             <Goal>
