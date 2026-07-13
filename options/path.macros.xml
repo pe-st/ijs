@@ -1,6 +1,9 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/Users/pesche/.m2/repository" />
-    <macro name="WILDFLY_HOME" value="/Users/pesche/Documents/wildfly-27.0.1.Final" />
+    <macro name="REPO_CHECKOUT_RELATIVE_FROM_WILDFLY" value="../../../../src/kazan/fo-ha/apps/svc" />
+    <macro name="REPO_CHECKOUT_ROOT" value="/Users/pesche/src/kazan/fo-ha/apps/svc" />
+    <macro name="WILDFLY_39_HOME" value="/Users/pesche/lib/wildfly-39.0.1.Final" />
+    <macro name="WILDFLY_39_LOGS" value="$WILDFLY_39_HOME$/standalone/log" />
   </component>
 </application>
