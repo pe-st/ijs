@@ -18,7 +18,7 @@
           <projects_view />
         </option>
       </component>
-      <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+      <component name="KubernetesApiProvider">{}</component>
       <component name="MarkdownProjectSettings" wasCopied="true">
         <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
           <PanelProvider>
@@ -235,10 +235,10 @@
       </component>
       <component name="VcsDirectoryMappings" defaultProject="true" />
       <component name="WindowStateProjectService">
-        <state x="537" y="221" key="SettingsEditor" timestamp="1733656154203">
-          <screen x="0" y="25" width="1792" height="1095" />
+        <state x="356" y="93" width="800" height="670" key="new project wizard" timestamp="1784268760453">
+          <screen x="0" y="34" width="1512" height="858" />
         </state>
-        <state x="537" y="221" key="SettingsEditor/0.25.1792.1095" timestamp="1733656154203" />
+        <state x="356" y="93" width="800" height="670" key="new project wizard/0.34.1512.858" timestamp="1784268760453" />
       </component>
       <component name="masterDetails">
         <states>
@@ -267,7 +267,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>25</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

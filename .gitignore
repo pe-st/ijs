@@ -36,8 +36,10 @@ options/AIOnboardingPromoWindowAdvisor.xml
 options/applicationLibraries.xml
 options/cachedDictionary.xml
 options/ChartsStyleConfig.xml
+options/CommandCompletion.xml
 options/completion*.xml
 options/contributorSummary.xml
+options/dailyLocalStatistics.xml
 options/dataSources*.xml
 options/dataSources/*.xml
 options/dataSources/*/storage_v2/
@@ -59,6 +61,7 @@ options/inline.factors.completion.xml
 options/IntelliLang.xml
 options/jdk.table.xml
 options/k2-feedback.xml
+options/kotlin-onboarding.xml
 options/kotlin-wizard-data.xml
 options/llm.nextEdits.xml
 options/mac/maven.wrapper.mapping.xml
