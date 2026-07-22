@@ -1,6 +1,7 @@
 AngularJS|JavaScript Frameworks and Tools
 ByteCodeViewer|JVM Tools
 Coverage|JVM Tools
+Docker|Deployment
 Git4Idea|Version Controls
 HtmlTools|HTML and XML
 JBoss|Deployment
@@ -22,7 +23,6 @@ com.intellij.aop|JVM Frameworks
 com.intellij.beanValidation|JVM Frameworks
 com.intellij.cdi|JVM Frameworks
 com.intellij.code.provenance|null
-com.intellij.completion.ml.ranking|Local AI/ML Tools
 com.intellij.compose|Kotlin Frameworks
 com.intellij.configurationScript|IDE Settings
 com.intellij.copyright|IDE Settings
@@ -31,11 +31,12 @@ com.intellij.css|Style Sheets
 com.intellij.database|Database
 com.intellij.debugger.collections.visualizer|JVM Tools
 com.intellij.dev|Platform Development
+com.intellij.dfa.analysis|null
 com.intellij.diagram|Other Tools
-com.intellij.findusages.ml|Local AI/ML Tools
 com.intellij.flyway|Database
 com.intellij.freemarker|Template Languages
 com.intellij.gradle|Build Tools
+com.intellij.groovy.scripting|Languages
 com.intellij.hibernate|JVM Frameworks
 com.intellij.java-i18n|JVM Tools
 com.intellij.java.ide|IDE Settings
@@ -56,13 +57,15 @@ com.intellij.ko|IDE Localization
 com.intellij.kubernetes|Deployment
 com.intellij.liquibase|Database
 com.intellij.mcpServer|AI-Powered
+com.intellij.mermaid|null
 com.intellij.micronaut|JVM Frameworks
 com.intellij.microservices.jvm|JVM Frameworks
 com.intellij.microservices.ui|Microservices
+com.intellij.modules.jcef|Other Tools
 com.intellij.modules.json|Languages
 com.intellij.modules.ultimate|null
-com.intellij.notebooks.core|null
 com.intellij.persistence|JVM Frameworks
+com.intellij.platform.acp|IDE Settings
 com.intellij.platform.daemon|IDE Settings
 com.intellij.platform.images|null
 com.intellij.plugins.eclipsekeymap|Keymap
@@ -83,18 +86,17 @@ com.intellij.spring.messaging|JVM Frameworks
 com.intellij.spring.modulith|JVM Frameworks
 com.intellij.spring.mvc|JVM Frameworks
 com.intellij.spring.security|JVM Frameworks
+com.intellij.spring|JVM Frameworks
 com.intellij.stylelint|JavaScript Frameworks and Tools
 com.intellij.swagger|Microservices
 com.intellij.tailwindcss|Style Sheets
-com.intellij.tasks.timeTracking|Other Tools
-com.intellij.tasks|Other Tools
 com.intellij.thymeleaf|Template Languages
 com.intellij.velocity|Template Languages
 com.intellij.zh|IDE Localization
 com.intellij|null
 com.jetbrains.gateway|Remote Development
-com.jetbrains.performancePlugin.async|Platform Development
 com.jetbrains.performancePlugin|Platform Development
+com.jetbrains.plugins.webDeployment|Deployment
 com.jetbrains.remoteDevServer|Remote Development
 com.jetbrains.remoteDevelopment|Remote Development
 com.jetbrains.restClient|Microservices
@@ -102,14 +104,31 @@ com.jetbrains.restWebServices|JVM Frameworks
 com.jetbrains.sh|Languages
 com.jetbrains.station|Remote Development
 idea.plugin.protoeditor|Languages
+intellij.bookmarks.plugin|null
+intellij.debuggerMcp|null
+intellij.execution.serviceView.plugin|null
 intellij.git.commit.modal|Version Controls
+intellij.grid.core.plugin|null
 intellij.grid.plugin|null
+intellij.indexing.shared.core|IDE Settings
+intellij.java.aetherDependencyResolver.plugin|null
+intellij.javascript.eslint|JavaScript Frameworks and Tools
 intellij.ktor|Kotlin Frameworks
+intellij.libraries.misc.plugin|null
+intellij.navbar.plugin|null
 intellij.nextjs|JavaScript Frameworks and Tools
-intellij.platform.ijent.impl|Remote Development
+intellij.platform.ijent.bundledBinaries|Remote Development
 intellij.prettierJS|JavaScript Frameworks and Tools
+intellij.recentFiles.plugin|null
+intellij.ssh.plugin|null
+intellij.structuralSearch.plugin|null
+intellij.structureView.plugin|null
+intellij.testRunner.plugin|null
+intellij.todo.plugin|null
+intellij.vcs.split.plugin|null
 intellij.webpack|JavaScript Frameworks and Tools
 intellij.webp|null
+jshint|JavaScript Frameworks and Tools
 org.editorconfig.editorconfigjetbrains|IDE Settings
 org.intellij.groovy.live.templates|null
 org.intellij.groovy|Languages
@@ -117,7 +136,6 @@ org.intellij.plugins.markdown|Languages
 org.intellij.plugins.postcss|Style Sheets
 org.intellij.qodana|null
 org.jetbrains.completion.full.line|Local AI/ML Tools
-org.jetbrains.debugger.streams|JVM Tools
 org.jetbrains.idea.eclipse|Other Tools
 org.jetbrains.idea.gradle.dsl|null
 org.jetbrains.idea.maven|Build Tools
@@ -129,7 +147,6 @@ org.jetbrains.plugins.github|Version Controls
 org.jetbrains.plugins.gitlab|Version Controls
 org.jetbrains.plugins.gradle|Build Tools
 org.jetbrains.plugins.javaFX|JVM Frameworks
-org.jetbrains.plugins.kotlin.jupyter|null
 org.jetbrains.plugins.less|Style Sheets
 org.jetbrains.plugins.node-remote-interpreter|JavaScript Frameworks and Tools
 org.jetbrains.plugins.remote-run|Remote Development

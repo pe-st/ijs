@@ -10,16 +10,67 @@
     <option name="userDisabledRules">
       <set>
         <option value="LanguageTool.EN.WHITESPACE_RULE" />
-        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
         <option value="LanguageTool.DE.FALSCHES_ANFUEHRUNGSZEICHEN" />
-        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
         <option value="LanguageTool.DE.AUSLASSUNGSPUNKTE_LEERZEICHEN" />
       </set>
     </option>
     <option name="userEnabledRules">
       <set>
+        <option value="Grazie.RuleEngine.En.Style.NONVIOLENT_LANGUAGE" />
+        <option value="Grazie.RuleEngine.En.Style.HONORIFIC" />
+        <option value="Grazie.RuleEngine.En.Style.DISCRIMINATORY_LANGUAGE" />
         <option value="LanguageTool.DE.STYLE_REPEATED_WORD_RULE_DE" />
+        <option value="Grazie.RuleEngine.En.Style.PRONOUN_GENDER_BIAS" />
+        <option value="Grazie.RuleEngine.En.Style.NOUN_VERB_GENDER_BIAS" />
       </set>
+    </option>
+    <option name="domainDisabledRules">
+      <map>
+        <entry key="Commit">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="AIPrompt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="CodeDocumentation">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="CodeComment">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="domainEnabledRules">
+      <map>
+        <entry key="Commit">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="AIPrompt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="CodeDocumentation">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="CodeComment">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
     </option>
     <option name="suppressingContext">
       <SuppressingContext>

@@ -11,6 +11,9 @@
         <option value="com.microsoft.tooling.msservices.intellij.azure" />
         <option value="com.intellij.wiremock" />
         <option value="com.intellij.reactivestreams" />
+        <option value="com.intellij.jdbi" />
+        <option value="com.intellij.jsf" />
+        <option value="com.jetbrains.jax.ws" />
       </list>
     </option>
   </component>
