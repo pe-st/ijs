@@ -2,4 +2,4 @@
 -Dide.managed.by.toolbox=/Users/pesche/Applications/JetBrains Toolbox.app/Contents/MacOS/jetbrains-toolbox
 -Dtoolbox.notification.token=55216d5e-cd65-4c79-8223-1a9baa8a321b
 -Dtoolbox.notification.portFile=/Users/pesche/Library/Caches/JetBrains/Toolbox/ports/06a3a9a9-cf5b-40c7-9038-242ef872e937.port
--Xmx2048m
+-Xmx4092m
