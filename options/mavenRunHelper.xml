@@ -29,6 +29,9 @@
               <option name="commandLine" value="install" />
             </Goal>
             <Goal>
+              <option name="commandLine" value="clean test-compile" />
+            </Goal>
+            <Goal>
               <option name="commandLine" value="clean package" />
             </Goal>
             <Goal>

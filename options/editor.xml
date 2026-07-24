@@ -32,4 +32,7 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
 </application>
