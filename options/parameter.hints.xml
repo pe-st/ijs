@@ -1,0 +1,6 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="java.enums" value="false" />
+    <option id="java.new.expr" value="false" />
+  </component>
+</application>

@@ -1,0 +1,27 @@
+<application>
+  <component name="PluginUpdateSources">
+    <sources>
+      <entry pluginId="org.sonarlint.idea">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="com.github.l34130.mise">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="com.intellij.java">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="JavaScript">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="org.jetbrains.kotlin">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="org.jetbrains.completion.full.line">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="String Manipulation">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+    </sources>
+  </component>
+</application>

@@ -5,5 +5,7 @@
     <macro name="REPO_CHECKOUT_ROOT" value="/Users/pesche/src/kazan/fo-ha/apps/svc" />
     <macro name="WILDFLY_39_HOME" value="/Users/pesche/lib/wildfly-39.0.1.Final" />
     <macro name="WILDFLY_39_LOGS" value="$WILDFLY_39_HOME$/standalone/log" />
+    <macro name="WILDFLY_41_HOME" value="/Users/pesche/lib/wildfly-41.0.0.Final" />
+    <macro name="WILDFLY_41_LOGS" value="$WILDFLY_41_HOME$/standalone/log" />
   </component>
 </application>

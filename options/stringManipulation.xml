@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeAction" />
-        <option name="description" value="Encode URL (by java.net.URLEncoder)" />
-        <option name="textWithMnemonic" value="Encode URL" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeRFC3986Action" />
+        <option name="description" value="Encode URL (RFC 3986 - space character as %20 instead of +)" />
+        <option name="textWithMnemonic" value="Encode URL (RFC 3986)" />
       </UniversalActionModel>
     </option>
     <option name="version" value="1" />
