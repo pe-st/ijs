@@ -47,12 +47,10 @@ com.intellij.javaee.jakarta.data|JVM Frameworks
 com.intellij.javaee.jpa|JVM Frameworks
 com.intellij.javaee.reverseEngineering|Database
 com.intellij.javaee.web|JVM Frameworks
-com.intellij.javaee|JVM Frameworks
 com.intellij.java|Languages
 com.intellij.ja|IDE Localization
 com.intellij.jpa.jpb.model|JVM Frameworks
 com.intellij.jsonpath|Languages
-com.intellij.jsp|Template Languages
 com.intellij.ko|IDE Localization
 com.intellij.kubernetes|Deployment
 com.intellij.liquibase|Database
@@ -149,7 +147,6 @@ org.jetbrains.plugins.gitlab|Version Controls
 org.jetbrains.plugins.gradle|Build Tools
 org.jetbrains.plugins.javaFX|JVM Frameworks
 org.jetbrains.plugins.less|Style Sheets
-org.jetbrains.plugins.node-remote-interpreter|JavaScript Frameworks and Tools
 org.jetbrains.plugins.remote-run|Remote Development
 org.jetbrains.plugins.sass|Style Sheets
 org.jetbrains.plugins.terminal|Other Tools

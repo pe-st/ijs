@@ -93,6 +93,7 @@ options/window.state.xml
 options/windows/maven.wrapper.mapping.xml
 options/wsl.distributions.xml
 options/wslRecentConnections.xml
+options/wsl-survey.xml
 pdb.pwd
 plugins/
 port

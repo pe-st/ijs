@@ -14,6 +14,9 @@
         <option value="com.intellij.jdbi" />
         <option value="com.intellij.jsf" />
         <option value="com.jetbrains.jax.ws" />
+        <option value="com.intellij.jsp" />
+        <option value="com.intellij.bigdatatools.kafka" />
+        <option value="com.intellij.javaee.batch" />
       </list>
     </option>
   </component>

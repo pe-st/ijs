@@ -2,10 +2,21 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeRFC3986Action" />
-        <option name="description" value="Encode URL (RFC 3986 - space character as %20 instead of +)" />
-        <option name="textWithMnemonic" value="Encode URL (RFC 3986)" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToDotStyleOrCamelCaseAction" />
+        <option name="description" value="Toggle: dot.case / camelCase" />
+        <option name="textWithMnemonic" value="dot.case / camelCase" />
       </UniversalActionModel>
+    </option>
+    <option name="sortSettingsMap">
+      <map>
+        <entry key="SortAction">
+          <value>
+            <SortSettings>
+              <option name="ignoreLeadingCharacters" value="//" />
+            </SortSettings>
+          </value>
+        </entry>
+      </map>
     </option>
     <option name="version" value="1" />
   </component>

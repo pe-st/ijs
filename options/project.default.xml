@@ -151,11 +151,11 @@
         </entry>
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
   }
-}]]></component>
+}</component>
       <component name="RemoteRepositoriesConfiguration">
         <remote-repository>
           <option name="id" value="central" />
@@ -267,7 +267,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>25</last-edited>
+              <last-edited>21</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

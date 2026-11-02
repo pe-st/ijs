@@ -22,6 +22,9 @@
       <entry pluginId="String Manipulation">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
+      <entry pluginId="com.intellij.mcpServer">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
     </sources>
   </component>
 </application>
