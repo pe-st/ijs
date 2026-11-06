@@ -22,7 +22,7 @@ com.intellij.LineProfiler|JVM Tools
 com.intellij.aop|JVM Frameworks
 com.intellij.beanValidation|JVM Frameworks
 com.intellij.cdi|JVM Frameworks
-com.intellij.code.provenance|null
+com.intellij.code.provenance|AI-Powered
 com.intellij.compose|Kotlin Frameworks
 com.intellij.configurationScript|IDE Settings
 com.intellij.copyright|IDE Settings
@@ -39,7 +39,6 @@ com.intellij.gradle|Build Tools
 com.intellij.groovy.scripting|Languages
 com.intellij.hibernate|JVM Frameworks
 com.intellij.java-i18n|JVM Tools
-com.intellij.java.ide|IDE Settings
 com.intellij.javaee.app.servers.integration|Deployment
 com.intellij.javaee.el|JVM Frameworks
 com.intellij.javaee.extensions|JVM Frameworks
@@ -47,6 +46,7 @@ com.intellij.javaee.jakarta.data|JVM Frameworks
 com.intellij.javaee.jpa|JVM Frameworks
 com.intellij.javaee.reverseEngineering|Database
 com.intellij.javaee.web|JVM Frameworks
+com.intellij.javaee|JVM Frameworks
 com.intellij.java|Languages
 com.intellij.ja|IDE Localization
 com.intellij.jpa.jpb.model|JVM Frameworks
@@ -130,7 +130,6 @@ intellij.webp|null
 jshint|JavaScript Frameworks and Tools
 org.editorconfig.editorconfigjetbrains|IDE Settings
 org.intellij.groovy.live.templates|null
-org.intellij.groovy|Languages
 org.intellij.plugins.markdown|Languages
 org.intellij.plugins.postcss|Style Sheets
 org.intellij.qodana|null
@@ -147,6 +146,7 @@ org.jetbrains.plugins.gitlab|Version Controls
 org.jetbrains.plugins.gradle|Build Tools
 org.jetbrains.plugins.javaFX|JVM Frameworks
 org.jetbrains.plugins.less|Style Sheets
+org.jetbrains.plugins.node-remote-interpreter|JavaScript Frameworks and Tools
 org.jetbrains.plugins.remote-run|Remote Development
 org.jetbrains.plugins.sass|Style Sheets
 org.jetbrains.plugins.terminal|Other Tools
