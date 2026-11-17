@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS System Shortcuts copy" parent="macOS System Shortcuts">
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -53,5 +54,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
+  <action id="RunAnything" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>

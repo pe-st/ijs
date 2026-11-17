@@ -17,6 +17,7 @@
         <option value="com.intellij.jsp" />
         <option value="com.intellij.bigdatatools.kafka" />
         <option value="com.intellij.javaee.batch" />
+        <option value="idea.plugin.protoeditor" />
       </list>
     </option>
   </component>

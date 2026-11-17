@@ -87,6 +87,7 @@
         </option>
       </State>
     </option>
+    <option name="autoUpdateLanguages" value="true" />
     <option name="parameters">
       <map>
         <entry key="ENGLISH" />
